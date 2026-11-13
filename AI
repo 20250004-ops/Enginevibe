@@ -1,0 +1,931 @@
+<!doctype html>
+<html lang="ko">
+ <head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20261113-00-2ee0c5b","C":{"ABeeZee":"YADK31-VBBc,1","Abel":"YAHO2Ehol3g,0","Abhaya Libre":"YAFdJvwa-l0,0","Abril Fatface":"YACgEZbkUVE,0","Aclonica":"YAHO2OEKYj0,0","Acme":"YAHO2Gflqzo,0","Actor":"YAHO2N0IV_4,0","Adamina":"YAHO2Ko8ddg,0","Advent Pro":"YAFdJvNZdCk,0","Afacad":"YAHO2HaK_fU,0","Afacad Flux":"YAHO2DjbA6Y,0","Agrandir":"YAFdJpYuLss,0","Aileron":"YAFdJn5d8s0,0","Akshar":"YAGWNF0jApg,0","Alata":"YAD1aLikJo8,0","Albert Sans":"YAHO2HRfeh4,0","Alegreya":"YAFdJs07v-8,0","Alegreya Sans":"YAFdJvgJ5TU,0","Alegreya Sans SC":"YAFdJuaTEaM,0","Alegreya SC":"YACgEen8jXo,0","Aleo":"YAFdJg_txOU,0","Alex Brush":"YAE2gr0Mbng,0","Alexandria":"YAGVt-AWBcU,0","Alfa Slab One":"YACgEYS9sJU,0","Alice":"YALBszUSD-E,0","Allison":"YAG5KfE49h8,0","Allura":"YACgEap1YR0,0","Almarai":"YAFdJuZe0mI,0","Almendra":"YAHO2Dyhotk,0","Alumni Sans":"YAHO2DByoho,0","Amaranth":"YACgEaBTFMQ,0","Amatic SC":"YACgEbSBm0k,0","Amiri":"YAEWgjWFb1M,0","Amiri Quran":"YAHO2Enz6cg,0","Amita":"YADK309xYYo,1","Andika":"YACkoFAye4w,0","Anek Bangla":"YAGVuloYrvI,0","Anek Gujarati":"YAHO2NTD_LM,0","Anek Latin":"YAHO2C6lVnU,0","Anek Telugu":"YAHO2KVu8lI,0","Angsana New":"YAFcflTHDNQ,0","Anonymous Pro":"YACgEV9owk4,0","Antic Slab":"YAHO2HJeTP0,0","Anton":"YACgEcYqQ-A,0","Antonio":"YAFdJjZxcpY,0","Anuphan":"YAHO2IhZ4E0,0","Anybody":"YAHO2MTsics,0","Aptos":"YAGi2jFvvq4,1","Arapey":"YADK32AK2Uk,1","Architects Daughter":"YACgEc9BFCs,0","Archive":"YAD0s3O1iG4,1","Archivo":"YAHO2-t-jNE,0","Archivo Black":"YACgEZulLoA,0","Archivo Narrow":"YACgEa-oJH8,0","Aref Ruqaa":"YAHO2NMqGdM,0","Arial":"YAGyDvJ_4Ts,0","Arimo":"YACgEZ1cb1Q,0","Arsenal":"YADK3_DWcOc,0","Arsenal SC":"YAHO2BfKrb0,0","Arvo":"YACgEf17hXM,0","Asap":"YAFdJr0OaFw,0","Asap Condensed":"YAD1fmY3NpE,0","Assistant":"YAFdtfahXt8,0","Atkinson Hyperlegible":"YAFge7Z-F6s,0","Atkinson Hyperlegible Next":"YAHO2IeQVB0,0","Audiowide":"YAHO2MsoafU,0","Avenir":"YAFcfmNq6UY,0","Azeret Mono":"YAHO2EIdDP0,0","B612":"YAD1b-1Hfc8,0","Bacasime Antique":"YAHO2JjJq4o,0","Bad Script":"YADK31ojH6A,1","Bagel Fat One":"YAFyG3A11Bw,0","Bai Jamjuree":"YAFdJjI5olU,0","Ballet":"YAGXhJ7-dYY,0","Baloo 2":"YAHO2IcQUcM,0","Baloo Bhaijaan 2":"YAHO2NwTj3Y,0","Baloo Da 2":"YAHO2LicHPY,0","Balsamiq Sans":"YAE3C_w4eo8,0","Bangers":"YAD5qTdjGKo,1","Barlow":"YAFdJsyuOPM,1","Barlow Condensed":"YAFdJljEuFc,0","Barlow Semi Condensed":"YAFdJu55qXI,0","Baskervville":"YAHO2JTYNKo,0","Beau Rivage":"YAHO2NDDGu0,0","Bebas Neue":"YACgESME5ew,0","Belanosima":"YAHO2KW8vyU,0","Bellefair":"YADSJ8TFXwA,0","Belleza":"YADK3w_fTc4,0","BenchNine":"YAHO2Gl7yMc,0","Berkshire Swash":"YACgEa7uPMI,0","Besley":"YAHO2BTXWYc,0","Beth Ellen":"YAD1b5m4a2U,0","Bevan":"YACkoDaMIbc,0","Big Shoulders Display":"YAFdJs8L2aw,0","BioRhyme":"YAHO2OnVvkA,0","Birthstone":"YAGXhLyeE6I,0","Biryani":"YAFdtZ_PRAs,0","Bitter":"YACkoOF0Xck,0","BIZ UDPGothic":"YAGWY3VAK4Q,0","Black Mango":"YAFdJkJYP7I,1","Black Ops One":"YACgEaY4FIU,0","Blinker":"YAFdJoBYX9o,0","Bodoni Moda":"YAHO2C7VUJE,0","Boogaloo":"YAHO2MTwH5g,0","Borel":"YAFyL1DOvfo,0","Bowlby One":"YAHO2EunPos,0","Bowlby One SC":"YAHO2J38FUs,0","Brake":"YAECFhPpDI8,0","Bree Serif":"YACkoD1yZN0,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Brightwall":"YAEl49DnZBU,0","Bubblegum Sans":"YAHO2JdFc_U,0","Bungee":"YALBszL9wLA,0","Bungee Shade":"YACkoPYyrRk,0","Cabin":"YAFdJnEgsb0,0","Cabin Condensed":"YAHO2F-FVVw,0","Cairo":"YAFdtXpDzlQ,0","Caladea":"YAD1hHx0kVU,0","Calibri":"YAFcfhdOoGk,0","Calistoga":"YAD1aIFxe3I,1","Cambria":"YAFcfgNlM2Y,0","Cantarell":"YAHO2LSCGX4,0","Canva Sans":"YAFdJjTk5UU,1","Canva Sans Display":"YAFTjyMT8Hc,0","Caprasimo":"YAHO2PYTkbo,0","Capriola":"YALBs4liG7k,0","Cardo":"YACkoGIT9qo,0","Carlito":"YACkoIZXsrc,0","Carter One":"YACgEZJ1Flw,0","Castoro":"YAHO2cDcmVM,0","Catamaran":"YAFdJhPTLAc,0","Caveat":"YALBs2ploWQ,0","Caveat Brush":"YALBs8ZVRhw,0","Cedarville Cursive":"YAHO2UrHGFQ,0","Chakra Petch":"YAD1fCkY3IQ,0","Changa":"YAFdJtbG8fw,0","Changa One":"YAHO2WdsbtM,0","Chango":"YADK37RW0po,0","Charis SIL":"YAGvf-G3GGU,0","Charm":"YAD1b_s4o-w,0","Chelsea Market":"YAHO2UOd5sY,0","Cherry Bomb One":"YAFyMfi5fyQ,0","Chewy":"YACgEZfALnA,0","Chivo":"YAHO2WvGfDs,0","Chivo Mono":"YAHO2Qd3y5g,0","Chonburi":"YALBsz_RTwU,0","Cinzel":"YACgEeV8bIQ,0","Cinzel Decorative":"YAEe9XbWpNs,0","Circe":"YAEw10H5958,0","Clear Sans":"YAFdJoLIdPI,0","Climate Crisis":"YAFdJnbiwgQ,0","Cocomat Pro":"YAFdJu9rg-E,0","Coiny":"YACkoOrpjtg,0","Comfortaa":"YAFdJoWmhxU,0","Comic Neue":"YAHO2VMiyZo,0","Comic Sans MS":"YAFcfvtOAUY,1","Coming Soon":"YACgEQDqBLk,0","Commissioner":"YAHO2RRI-KE,0","Concert One":"YAFyG1vOkaw,0","Consolas":"YAFcfu6YYdE,0","Cookie":"YAHO2TxA9Mk,0","Corben":"YADK3waYnkQ,2","Cormorant Garamond":"YAFdJhX-538,0","Cormorant Infant":"YAHO2cgbXjc,0","Cormorant SC":"YAFdJg7KuRM,0","Cormorant Unicase":"YAHO2b4ohVo,0","Courgette":"YACgEU5nS9M,0","Courier New":"YAGzXiGs0_8,0","Courier Prime":"YAD1aFjegN8,0","Cousine":"YADK35VyDYU,0","Crete Round":"YAHO2Uu9SvI,0","Crimson Pro":"YAFdJsEGkW0,0","Crimson Text":"YAHO2RsfBzg,0","Cuprum":"YACkoB3fESg,0","Cutive Mono":"YAHO2cov6H4,0","Damion":"YAHO2SxDErM,0","Dancing Script":"YALBs2pfuW0,0","Darker Grotesque":"YAD1acp_tgc,1","DejaVu Sans":"YAFdtfpl0Yc,0","Delius":"YAHO2f1B8B4,0","Dhurjati":"YAHO2RElIME,0","Didact Gothic":"YALBs-mIj2o,0","DM Mono":"YAHO2SGpw0w,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Domine":"YAHO2bbCOA4,0","Dongle":"YAGXDU1dmuc,0","Doppio One":"YAHO2ckhWaI,0","Dosis":"YAFdte3F-n0,1","DotGothic16":"YAHO2fxQNHM,0","DynaPuff":"YAFyMRnxBDs,0","East Sea Dokdo":"YAHO2V39uyM,0","Eater":"YAHO2VpLF0c,0","EB Garamond":"YAFdJtfMD6Y,0","Economica":"YACgEeIOo5w,0","Eczar":"YAFdJrnVElk,0","Edo":"YADoUIDNzaE,1","El Messiri":"YAFdJoZarj8,0","Encode Sans":"YAHO2R-vLyo,0","Encode Sans Condensed":"YAHO2RQWhbg,0","Epilogue":"YAHO2WWHRqI,0","Exo":"YAHO2c15ncY,0","Exo 2":"YAFdJor4M6A,1","Faculty Glyphic":"YAHO2ZuH1NQ,0","Fahkwang":"YAFdJp0SJos,0","Familjen Grotesk":"YAHO2ZriIzU,0","Faustina":"YAFdJnqy8Oc,0","Figtree":"YAHO2b-mV7A,0","Fira Code":"YAFdJsxBlTg,0","Fira Mono":"YAHO2bTKfjg,0","Fira Sans":"YAFdJnJKOPE,0","Fira Sans Condensed":"YAHMLJN-FcA,0","Fira Sans Extra Condensed":"YAHMLGqUb6Q,0","Fjalla One":"YAHO2VMyTKw,0","Fondamento":"YAHO2X_okmA,0","Forum":"YACgEcnnqB4,0","Fragment Mono":"YAHO2ZlYXZc,0","Francois One":"YADK3zbC6RM,0","Frank Ruhl Libre":"YAFdJiGIKxQ,0","Fraunces":"YAFdJpU7Kkk,0","Fredoka":"YACgEZml080,0","Frutiger":"YAFcf7IGSfk,0","Fugaz One":"YAHO2f5L5K0,0","Funnel Display":"YAHO2TmVuEs,0","Funnel Sans":"YAHO2R0FK5U,0","Futura":"YAFcfgcNhWk,3","Gabarito":"YAHO2cD3JmI,0","Gaegu":"YAFdJj615Ls,0","Gamja Flower":"YADK39n_eyc,0","Gantari":"YAHO2WveuBo,0","Garamond":"YAFcfhlhK9c,0","Gasoek One":"YAFyMaznfGo,0","Geist":"YAHO2SfKS30,0","Geist Mono":"YAHO2XOe8v8,0","Gelasio":"YAHO2e426-k,0","Gentium Book Plus":"YAHO2b-adyU,0","Geologica":"YAHMLpZ3y5c,0","Geom":"YAHMLFz7unQ,0","Georama":"YAHO21l9KR8,0","Georgia":"YAGzXkO0pEM,0","GFS Didot":"YADK39vXpyU,0","Gilda Display":"YADK34sD2QM,0","Gill Sans":"YAFcfnt9wqI,0","Gilroy":"YAFcf0f10mQ,0","Glacial Indifference":"YACgETiWKS8,0","Gloock":"YAHO2WVhd0Q,0","Gloria Hallelujah":"YALBs50JjRs,0","Gochi Hand":"YACgEWWPgRQ,0","Golden Hopes":"YAHNdVsGdn0,0","Goldman":"YAHO2TATES8,0","Golos Text":"YAHO2QlqAQk,0","Google Sans":"YAHO2dYZ4Uw,0","Google Sans Code":"YAHO2XdQwlA,0","Google Sans Flex":"YAHO2e8mtck,0","Gotham":"YAFcfr0ZwUA,0","Gotu":"YAEZNa_UrWs,0","Goudy Bookletter 1911":"YAHO2X7CqQQ,0","Gowun Batang":"YAGXDQtk-ic,0","Gowun Dodum":"YAGXDZ921io,0","Graduate":"YACgEajwz7Y,0","Grandstander":"YAHO2bN2hd8,0","Gravitas One":"YAHO2WtqHRw,0","Great Vibes":"YACgEX27qLg,0","Grenze":"YAFdJpFWOZM,0","Grenze Gotisch":"YAHO2fI_o94,0","Gruppo":"YACgEbcz8MU,0","Gudea":"YAHO2WlVs30,0","Hahmlet":"YAGXDTqs4Ac,0","Hammersmith One":"YACgEWNFnT4,0","Handlee":"YAHO2U9C-xI,0","Hanken Grotesk":"YAHO2VB9G0I,0","Heebo":"YAFdJqqaebw,0","Helvetica":"YAFcf7zkXN0,0","Henny Penny":"YAHO2dlXoyw,0","Hepta Slab":"YAHO2TWtyXA,0","Hind Guntur":"YAFdJq1FbIc,0","Hind Madurai":"YAFdJtsMgQk,0","Hind Siliguri":"YAFdJodBWQk,0","Hind Vadodara":"YAFdJrnuAas,0","HK Grotesk":"YAFdJsjyMsM,0","Homemade Apple":"YADK3zBTjLs,0","Host Grotesk":"YAHO2VztvdY,0","Hubot Sans":"YAHO2cDVt0E,0","Huninn":"YAHO2dG1YxU,0","Ibarra Real Nova":"YAD1aDS1Jq8,0","IBM Plex Mono":"YAFdJkmvhGI,0","IBM Plex Sans":"YAFdJgT0SHI,0","IBM Plex Sans Arabic":"YAGVuEYCNg0,1","IBM Plex Sans Condensed":"YAFdJrPBof8,0","IBM Plex Sans JP":"YAGWY6rvaqo,0","IBM Plex Sans KR":"YAGXDbUrwEo,0","IBM Plex Sans Thai":"YAFdJkdZC28,0","IBM Plex Serif":"YAFdJt16xgA,0","IM Fell English":"YAHO2QB0QVo,0","IM Fell English SC":"YACgERmrc6I,0","IM Fell French Canon":"YAHO2bMvABs,0","Impact":"YAFcfnjI7Vk,0","Inclusive Sans":"YAGzRvSP2H0,0","Inconsolata":"YAHO2SpO-5g,0","Indie Flower":"YAHO2aaUih8,0","Instrument Sans":"YAHO2bKyaSQ,0","Instrument Serif":"YAHFeOnZNEk,0","Inter":"YAFdJvSyp_k,3","Inter Tight":"YAHO2Wv04Hw,0","Istok Web":"YAHO2XNFLkI,0","Italiana":"YAHO2Toik_w,0","Italianno":"YADK33wZXP4,1","Itim":"YAE0Z3ly4AQ,0","Jacques Francois":"YAHO2a5g66Q,0","Jersey 10":"YAHO2QXCPBA,0","Jersey 25":"YAHO2b0HdSo,0","JetBrains Mono":"YAFdJksXcAk,0","Josefin Sans":"YAFdJjvw9Ps,0","Josefin Slab":"YACgEQmaEIc,0","Jost":"YAHO2TSelXg,0","Jua":"YADK3-gZSDU,0","Judson":"YAHO2Te3_As,0","Julius Sans One":"YACgET-7cBI,0","Jura":"YAFdJmtyccY,0","Kaisei Decol":"YAGWY5xJxfk,0","Kalam":"YAFdJrEg2ic,0","Kanit":"YAHO2TvSf7E,0","Kantumruy Pro":"YAHO2SVqwqY,0","Karantina":"YAHO2TVXfmM,0","Karla":"YAHO2V2NSXM,0","Kaushan Script":"YACgEbGmrJs,0","Khand":"YAFdJm18w3g,0","Khula":"YAFdJvaOkWI,0","Kiwi Maru":"YAFdJmm1njU,0","Klee One":"YAHO2dadxts,0","Knewave":"YACgEYSBEEA,0","Kodchasan":"YAFdJmfmzeo,0","Kosugi Maru":"YAEhL82apSM,0","Krona One":"YAHO2byEKN4,0","Krub":"YAFdJl9ACwk,0","Kulim Park":"YAHO2VNx1jc,0","Kumbh Sans":"YAHO2UjzjpM,0","La Belle Aurore":"YAHO2QKdLHU,0","Lalezar":"YACkoB188Y0,0","Lato":"YAFdJuFCnaw,0","League Gothic":"YACgEZ1OEPI,0","League Spartan":"YACgEcnJpjs,0","Leckerli One":"YAGX4ddZAAg,0","Lemonada":"YAFdtQVfQCk,0","Lexend":"YAHO2SCkHoU,0","Lexend Deca":"YAD9UdTHECk,0","Lexend Exa":"YAD9UUZHL7I,0","Lexend Giga":"YAD9UYAqrOc,0","Lexend Mega":"YAD9UdrjgZw,0","Lexend Zetta":"YAD9UYrErMw,0","Libre Baskerville":"YACgEUFdPdA,0","Libre Bodoni":"YAHO2fbN094,0","Libre Caslon Display":"YAHO2XhLmt0,0","Libre Caslon Text":"YAHO2USylHk,0","Libre Franklin":"YAFdJr3SNlU,1","Lilita One":"YACgEblklxo,0","Limelight":"YACgEUpkTXE,0","LINE Seed JP":"YAHO2d8yXa4,0","Literata":"YAD1b0SpOHQ,0","Literaturnaya":"YAEw2PHBjL0,0","Livvic":"YAFdJiLU_Ko,0","Lobster":"YAD8SnSjSFI,0","Lobster Two":"YACgEesdoec,0","Londrina Solid":"YAFdJnyMeQE,0","Lora":"YACgEXvxf8Q,0","Love Ya Like A Sister":"YAHO2WqclmE,0","Lucida Console":"YAFcfpZCfh8,0","Luckiest Guy":"YADK4PnlFRs,0","Lusitana":"YAHO2SveFfM,0","LXGW WenKai TC":"YAHO2ehQ5_o,0","M PLUS 1p":"YAHO2fozO7I,0","M PLUS 2":"YAHO2RUGZcQ,0","Ma Shan Zheng":"YAD1b3yES34,0","Mada":"YAFd-HxC1Y0,0","Maitree":"YAFdJh4v5pY,0","Mali":"YAFdJh7OuNE,0","Manrope":"YAHO2b2feC4,0","Mansalva":"YAD1aZCCYU8,1","Marcellus":"YADK4L2nGbg,0","Marck Script":"YALBs9DBETo,0","Marhey":"YAGVt3FsiJE,0","Martel":"YAFdtY7FRH8,1","Martian Mono":"YAHO2YhUMkk,0","Mate":"YAHO2eaPuMk,0","Maven Pro":"YAFdJgCyb_c,0","Mea Culpa":"YAHO2UQx4WU,0","MedievalSharp":"YAHO2XoH9qQ,0","Megrim":"YACgEQu0pLY,0","Meiryo":"YAGmJPEz0BM,0","Merienda":"YAGXhISLJkY,0","Merriweather":"YACgEXvHxxs,0","Merriweather Sans":"YAFdJorZgto,1","Michroma":"YADK4IYX8vY,0","Miriam Libre":"YADK4A2U8KA,0","Mitr":"YAFdJh-DKf0,0","Mona Sans":"YAHO2XGz2BM,0","Monda":"YADK34lACd0,1","Monoton":"YALBs_hWWG8,0","Mont":"YAFdJgul-2U,0","Montserrat":"YAFdtQi73Xs,0","Montserrat Alternates":"YAHO2d5URdI,0","Monument":"YAFdJgp7PFE,0","Mooli":"YAHO2QudnvU,0","More Sugar":"YAFdJkVWBPo,1","Moul":"YADK4IOwXpw,0","Mountains of Christmas":"YAHO2f6R-YA,0","Mr Dafoe":"YACgEbw4BXM,0","Mrs Saint Delafield":"YAHO2Tnt53k,0","Ms Madi":"YAHO2SBc4rI,0","Mukta":"YAFdJjsZaSM,0","Muli":"YAFdtZAC0Mk,0","Mulish":"YAHO28rytyw,0","Nanum Myeongjo":"YAFdJqiu4VY,0","Neucha":"YAEkTBQffFg,0","Neuton":"YAFdtcDBvdA,0","New Rocker":"YAHO2YI8rWg,0","News Cycle":"YACkoEMGWek,0","Newsreader":"YAHCYkWCns8,0","Nixie One":"YACgEUtNgZc,0","Nothing You Could Do":"YAHO2WqRm_c,0","Noticia Text":"YACkoDm0xlE,0","Noto Color Emoji":"YAGumpcTCok,0","Noto Kufi Arabic":"YACkoGW2dTA,0","Noto Naskh Arabic":"YACkoI8Oj1c,0","Noto Nastaliq Urdu":"YAGU_Q5u0w4,0","Noto Sans":"YACkoCjjZNk,0","Noto Sans Armenian":"YACkoI5u7HA,0","Noto Sans Bengali":"YAFdJjnhMdI,0","Noto Sans Canadian Aboriginal":"YAHK3L_wQZM,0","Noto Sans Display":"YAHO2eyZBeY,0","Noto Sans Ethiopic":"YAHO20DfUMM,0","Noto Sans Georgian":"YACkoFKxqWs,0","Noto Sans Gujarati":"YACkoEDaawU,0","Noto Sans HK":"YAHO2fCytzw,0","Noto Sans JP":"YAFdJiHXlcI,0","Noto Sans Kannada":"YACkoIujelo,0","Noto Sans Khmer":"YACkoFdRIJM,0","Noto Sans KR":"YAGsojZj-RQ,0","Noto Sans Lao":"YAHO2f6jVpw,0","Noto Sans Lao Looped":"YAHO2TSQjpA,0","Noto Sans Malayalam":"YACkoMzSo98,0","Noto Sans Mono":"YAHO2TFVtN0,0","Noto Sans Myanmar":"YACkoPHEdMk,0","Noto Sans Oriya":"YAHO2TmiA1I,0","Noto Sans SC":"YAHO2hDCDFM,0","Noto Sans Sinhala":"YACkoJiU_Ak,0","Noto Sans Symbols":"YAHO2n0Zh0w,0","Noto Sans Tamil":"YAHO2r9jkew,0","Noto Sans TC":"YAHO2pzGHBE,0","Noto Sans Telugu":"YAHO2uFAQs4,0","Noto Serif":"YACkoGNq-XY,0","Noto Serif Bengali":"YAGVuu_j8c8,0","Noto Serif Devanagari":"YAGWNWUpY9s,0","Noto Serif Display":"YAFdJllHsUM,0","Numans":"YAHO2nkeXPA,0","Nunito":"YAFdJoNRMmU,1","Nunito Sans":"YAFdtQJYB9w,1","Old Standard TT":"YAHO2lhtDcg,0","Oleo Script":"YACgEQQ14jI,0","Onest":"YAHO2kaArOY,0","Open Sans":"YAFdJt8dAY0,1","Open Sans Condensed":"YAD7Rf0lmm4,1","Open Sans Hebrew":"YAFdJlARYMY,0","Optima":"YAFcf0Fltlg,0","Oranienbaum":"YALBs0MvhmA,0","Orbit":"YAFyMQm0Z54,0","Orbitron":"YAHO2tXXH_o,0","Oswald":"YACgEQY10lw,0","Outfit":"YAHO2nVlg14,0","Overpass":"YAFdJhmdIMM,1","Oxanium":"YAHO2kINDn0,0","Oxygen":"YAHO2nOU31A,0","Pacifico":"YADLjORQ1u4,0","Padauk":"YACkoMjU4UU,0","Palatino":"YAGLy64uiS8,4","Pangolin":"YADK4DH4-fM,0","Parisienne":"YACgERSYqTw,0","Parkinsans":"YAHO2j-ZSEo,0","Passion One":"YAFdJo9cFec,0","Pathway Gothic One":"YACkoMQo7Mc,0","Patrick Hand":"YAHO2swKcgg,0","Patua One":"YAHO2qRZWLE,0","Paytone One":"YALBs8J6By4,0","Perandory SemiCondensed":"YAFJsrsM0TY,0","Permanent Marker":"YACgEcB-r-s,0","Petrona":"YADK4PUbnVg,1","Philosopher":"YAEkTCvkg7Q,0","Pinyon Script":"YACgEQzTJgs,0","Pirata One":"YALBs3j2Xx0,0","Pixelify Sans":"YAHO2v5ARTA,0","Play":"YADK4EFto8o,0","Playball":"YAHO2hWLQJ0,0","Playfair Display":"YAFdJhem5V8,1","Playfair Display SC":"YACgESE7eJQ,0","Playpen Sans":"YAGLNo9uX4s,1","Playwrite VN":"YAHO2_bSM7Y,0","Plus Jakarta Sans":"YAHO2gdhi18,0","Poiret One":"YAHO2nweLas,0","Pontano Sans":"YAHO2t91rWw,0","Poppins":"YAFdJjbTu24,1","Prata":"YACgES4qGnk,0","Press Start 2P":"YAFyGr-8pmQ,0","Pridi":"YAFdJmJ3gqA,0","Prompt":"YAFdJmA6sOY,0","Proxima Nova":"YAFcfjveRFU,0","Proxima Nova Condensed":"YAFcfiSm_SA,0","Proza Libre":"YAHO2nv0NKc,0","PT Mono":"YAHO2lnK_7w,0","PT Sans":"YACgEYbsV-E,0","PT Sans Caption":"YAHO2oZpTQc,0","PT Sans Narrow":"YAHO2glZymI,0","PT Serif":"YACgEcU7Qg4,0","Public Sans":"YAFdJj8NdaU,1","Pyidaungsu":"YACkoGGC7sA,0","Quantico":"YAHO2me4bVc,0","Quattrocento":"YACgEcL5b3s,0","Quattrocento Sans":"YAHO2vuaC0Y,0","Questrial":"YADK4LSvvyE,1","Quicksand":"YAFdJpYtCxE,1","Racing Sans One":"YACgEbcqMPM,0","Radio Canada":"YAHO2qxyljs,0","Radio Canada Big":"YAHO2r7P8wg,0","Rajdhani":"YAFdJoWaWgo,0","Raleway":"YAFdJhmxbVQ,1","Ramabhadra":"YACkoN_hhSs,0","Rammetto One":"YAHO2nAqWuQ,0","Rasa":"YAFdJg-9rGY,0","Readex Pro":"YAGVt3RBO3c,0","Recursive":"YAHO2oZn01g,0","Red Hat Display":"YAD1bzs0p0Y,0","Red Hat Mono":"YAHO2gB0kV8,0","Red Hat Text":"YAHO21kkNWg,0","Reddit Sans":"YAHO2kKAR-8,0","Reem Kufi":"YADSJ0ceOYQ,0","Reenie Beanie":"YAHO2s4qTnk,0","Rethink Sans":"YAHO2q9_FzY,0","Righteous":"YAHO2oo4-So,0","Roboto":"YACgEev4gKc,0","Roboto Condensed":"YACgEan-tYE,0","Roboto Flex":"YAHO2nqK4E8,0","Roboto Mono":"YAFdJkvp3-k,0","Roboto Slab":"YAFdJswIKAg,0","Rock Salt":"YAHO2vFSVxE,0","Rockwell":"YAFcfyVZnN0,0","Rokkitt":"YAFdJnlBl3o,0","Ropa Sans":"YACkoCA_LhY,0","Rowdies":"YAFyL2wl4FI,0","Rozha One":"YACkoMIfZVA,0","Rubik":"YAFdJsMWVVc,0","Rubik Dirt":"YAFyHRD_ZDY,0","Rubik Mono One":"YAHO2qtMuC0,0","Rubik Wet Paint":"YAHO2mLD_X0,0","Ruda":"YAFdJuuBNyM,1","Rufina":"YADK4FKO8Lg,0","Rye":"YACgEdQP21k,0","Sacramento":"YACgEf5ivwU,0","Saira":"YAFdJk33d3s,0","Saira Condensed":"YAFdJuBuAxg,0","Saira Extra Condensed":"YAFdJiQUvWc,0","Saira Semi Condensed":"YAHO2gfd5g8,0","Saira Stencil One":"YAD1aV1l2HE,0","Sanchez":"YACgEbBJLy8,0","Sarabun":"YAFdJssSnME,0","Sarala":"YADK4LF5xeY,0","Satisfy":"YACgEf5XTk0,0","Sawarabi Mincho":"YAD1faq7yjk,0","Scheherazade New":"YAHO2sxcjiY,0","Schibsted Grotesk":"YAHO2sWydRk,0","Segoe Script":"YAF3uTF1s5I,0","Segoe UI":"YAHNdRD1Klw,0","Sen":"YAHO2h5vrRE,0","Shadows Into Light":"YAHO2tztN1k,0","Shantell Sans":"YAFyGytbxDc,0","Share Tech":"YAHO2q4NPs0,0","Share Tech Mono":"YAHO2oHio98,0","Shippori Mincho":"YAGWZNRJkO8,0","Shippori Mincho B1":"YAGWZJnXF8c,0","Shrikhand":"YACkoEA0Kc0,0","Signika":"YACgEfiK7GI,0","Signika Negative":"YAHO2rWYEng,0","Silkscreen":"YAHO2rdlQ_o,0","Sintony":"YAHO2kIBPTg,0","Skranji":"YAHO2uPivlQ,0","Slabo 13px":"YAHO2hvaP1I,0","Slabo 27px":"YAHO2n--yeE,0","Smooch Sans":"YAHO2tPdb20,0","Snell Roundhand":"YAFcf-RMpoo,0","Sniglet":"YACgEUJSCy8,0","Sofia":"YAHO2kq3qHg,0","Sofia Sans":"YAHMLUINeco,0","Sofia Sans Condensed":"YAHMLQmSo-Y,0","Sofia Sans Extra Condensed":"YAHMLV0fp0c,0","Solway":"YAD1fewp_mA,3","Sora":"YAHO2rDTR1E,0","Sorts Mill Goudy":"YADK4Fi0R2c,0","Source Code Pro":"YAHO2tzIJbg,0","Source Sans 3":"YAG4lO1Mj10,0","Source Sans Pro":"YACgEQzTv38,0","Source Serif Pro":"YACgEfdj394,0","Space Grotesk":"YAHO2sjPCSM,0","Space Mono":"YADW1-vpsoc,0","Special Elite":"YACgEYVlm9Q,0","Special Gothic Expanded One":"YAHO2oaS0m0,0","Spectral":"YAHO2rVUHIM,0","Spectral SC":"YAHO2gamQtc,0","Spline Sans":"YAHO2rZC9CE,0","Squada One":"YADK4PDlAAM,0","Sriracha":"YALBs4sJbXs,0","Staatliches":"YAD1bzJCL-s,0","Stardos Stencil":"YADK4Mu_Xj0,1","STIX Two Text":"YAHO2joycuk,0","Style Script":"YAGLy2PgdK0,0","Sue Ellen Francisco":"YADK4OIbCxo,0","Suez One":"YACkoJMi7_c,0","Sunflower":"YAFdJtJhp3I,1","Syncopate":"YAHO2iXpgDY,0","Syne":"YAHML9oLRPc,0","Tahoma":"YAFcfipOFgg,0","Tajawal":"YAFdJg45t1g,0","Tangerine":"YADK4L8oUVI,0","TASA Orbiter":"YAHO2umh_2o,0","Taviraj":"YAFdJjquxqU,0","Teko":"YAFdJsF6lbU,0","Tektur":"YAHMLdkk1tM,0","Tenor Sans":"YACgEVY5j_w,0","TikTok Sans":"YAHO2of1C4s,0","Tilt Warp":"YAHO2uqld84,0","Times":"YAGzXW3gftg,0","Times New Roman":"YAGzXW3gftg,0","Tinos":"YACkoJyNZF4,0","Tiro Bangla":"YAGVuiG7jnE,0","Tiro Devanagari Hindi":"YAGWNCjUq0o,0","Tiro Devanagari Sanskrit":"YAGWNHzN1is,0","Titan One":"YAHO2v8eA3A,0","Titillium Web":"YAFdtTOE9xo,0","Tomorrow":"YAFdJlW65k4,0","Traditional Arabic":"YAGLszSchGc,0","Trebuchet MS":"YAFcfrglpVA,0","Trocchi":"YACgEV-yq04,0","TT Backwards Script":"YAEnTERS7-o,0","Turret Road":"YAHO2pKQLYQ,0","Ubuntu":"YACgERDU--Q,0","Ubuntu Condensed":"YAHO2nCaahY,0","Ubuntu Mono":"YAHO2g6B-Uo,0","Ubuntu Sans":"YAHO2kypvWc,0","Ultra":"YACgEWHSPx0,0","Unbounded":"YAHO2rkdmWY,0","Uncial Antiqua":"YAHO2gmfDAs,0","Unica One":"YALBs74Pdjc,0","UnifrakturCook":"YAHO2srzKxY,0","UnifrakturMaguntia":"YACgEZRHDPA,0","Unna":"YADK4PtOh7E,0","Urbanist":"YAHO2o1IFy0,0","Varela":"YAHO2gPi4IU,0","Varela Round":"YALBs2IK6rw,0","Vazirmatn":"YAHO2z1lH5c,0","Verdana":"YAGzXTctYtQ,0","Vidaloka":"YACgEdRnAX0,0","Viga":"YAHO2v8Lzbg,0","Volkhov":"YAHO2uWq-qg,0","Vollkorn":"YAFdJli9wSA,0","VT323":"YACgEYI9BCI,0","Walter Turncoat":"YADK4Mm5Elo,0","WindSong":"YAGXhGUyKSQ,0","Wix Madefor Display":"YAHO2o-Qfis,0","Wix Madefor Text":"YAHO2rU16Qc,0","Work Sans":"YAGXhLOKv44,0","Yanone Kaffeesatz":"YAFdtbpuM0E,0","Yantramanav":"YAFdJuZAcfY,0","Yatra One":"YACkoJ228Ho,0","Yellowtail":"YACgEYG4kG4,0","Yeseva One":"YALBs4GWnJw,0","Yesteryear":"YALBs99Qer0,0","Ysabeau":"YAHMLjcdG48,0","Ysabeau Office":"YAHO2uUYDYI,0","Yuji Boku":"YAFGHcN5e_Y,0","Yusei Magic":"YAEhL8RNAMk,0","Zain":"YAHO2lC1Xkw,0","Zalando Sans":"YAHO2k5OK-M,0","Zalando Sans Expanded":"YAHO2h6OPds,0","Zen Kaku Gothic Antique":"YAHO2u8F_xk,0","Zen Kaku Gothic New":"YAHO2tS_yps,0","Zen Maru Gothic":"YAFdJgMrcdw,0","Zen Old Mincho":"YAHO2tMwaEs,0","Zeyada":"YAHO2lP62P0,0","Zilla Slab":"YAFdJpPotmI,0"}}');</script><script src="/_sdk/829b2c3477130542.telemetry_sdk.js" integrity="sha512-67hmmAEkne1VfjljLzMk50EWBq/R1PMqBqD8ayctPatNyJg1RsLV4/2cf25+juNe2SvbRqTlDXl9c/slrSoUoQ=="></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="기통, 터보, 배기구와 변속을 조절하는 실시간 엔진·배기음 시뮬레이터">
+  <title>Engine Simulator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&amp;family=Noto+Sans+KR:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js"></script>
+  <style>
+    :root{--bg:#090c11;--panel:#171d25;--line:#3a4753;--text:#f5f7fa;--muted:#9baab7;--blue:#55b9ff;--red:#ff4b55}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}
+    body{margin:0;color:var(--text);font-family:"Noto Sans KR",sans-serif;background:radial-gradient(ellipse at 50% -15%,#293543 0%,transparent 55%),repeating-linear-gradient(105deg,#ffffff03 0 1px,transparent 1px 5px),var(--bg)}
+    button,input,select,textarea{font-family:"Noto Sans KR",sans-serif}button{cursor:pointer}:focus-visible{outline:2px solid #8ed4ff;outline-offset:3px}
+    .shell{width:min(100% - 44px,1280px);margin:auto}
+    .site-header{min-height:76px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #ffffff20}
+    .brand{display:flex;align-items:center;gap:12px;font:800 17px "DM Sans",sans-serif;letter-spacing:.15em}
+    .header-label,.eyebrow,.panel-title,.control-heading,.readout-label{font:700 11px "DM Sans",sans-serif;letter-spacing:.17em}.header-label{color:var(--muted)}
+    main{padding:36px 0 60px}.intro{display:flex;justify-content:space-between;align-items:end;gap:25px;margin-bottom:28px}.eyebrow{color:var(--blue);text-transform:uppercase}.intro h1{font-size:clamp(32px,4vw,56px);line-height:1.2;letter-spacing:-.06em;margin:10px 0}.intro p{font-size:13px;color:var(--muted);line-height:1.8;margin:0}.intro-note{text-align:right;color:var(--muted);font:700 11px/2 "DM Sans",sans-serif;letter-spacing:.1em}
+    .dashboard{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(340px,.7fr);gap:18px;align-items:start}
+    .panel{background:linear-gradient(145deg,#222b34,#141b22 50%,#0e1319);border:1px solid #65727a55;border-radius:22px;box-shadow:inset 0 1px #ffffff14,0 28px 55px #0008}
+    .gauge-panel{padding:25px;min-height:650px;display:flex;flex-direction:column;background:repeating-linear-gradient(135deg,#ffffff04 0 1px,transparent 1px 5px),linear-gradient(150deg,#222b34,#090d12 58%,#1d252e);border-color:#5a6773}
+    .panel-top{display:flex;justify-content:space-between;align-items:center;gap:10px}.panel-title,.control-heading{color:#c7d4de}.status{display:flex;align-items:center;gap:8px;color:var(--muted);font:700 11px "DM Sans",sans-serif;letter-spacing:.08em}.status-dot{width:8px;height:8px;background:#657078;border-radius:50%}.status.running{color:var(--blue)}.status.running .status-dot{background:var(--blue);box-shadow:0 0 13px var(--blue)}
+    .cluster-frame{position:relative;margin:19px 0 16px;padding:19px;border:1px solid #7a8894;border-radius:36px 36px 22px 22px;background:linear-gradient(145deg,#65727e 0%,#111922 3%,#05080c 19%,#101821 65%,#04070b 88%,#485561);box-shadow:inset 0 2px 3px #ffffff58,inset 0 0 0 6px #05080c,0 20px 35px #000d;overflow:hidden}
+    .cluster-frame:before{content:"";position:absolute;inset:9px;border:1px solid #ffffff16;border-radius:28px 28px 16px 16px;pointer-events:none}.cluster-frame:after{content:"";position:absolute;inset:8% 15% auto;height:30%;background:linear-gradient(#ffffff0b,transparent);transform:skewX(-28deg);pointer-events:none}
+    .cluster-header,.cluster-bottom{position:relative;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:10px;font:700 10px "DM Sans",sans-serif;letter-spacing:.14em;color:#9bb0c2}.drive-mode{color:#76c9ff;text-shadow:0 0 12px #38a9ff88}.cluster-lamps{display:flex;gap:13px;align-items:center}.lamp{color:#4d5d69;transition:color .2s,text-shadow .2s}.lamp svg{width:15px;height:15px}.cluster-frame[data-phase="lamps"] .lamp,.cluster-frame[data-phase="sweep"] .lamp,.cluster-frame[data-phase="crank"] .lamp{color:#ffac56;text-shadow:0 0 12px #ff8b3b}.cluster-frame[data-phase="on"] .lamp:first-child{color:#49d7a9}
+    .instrument-grid{position:relative;z-index:1;display:grid;grid-template-columns:minmax(68px,1fr) minmax(0,3.9fr) minmax(68px,1fr);align-items:center;gap:3px;margin:14px 0 6px}
+    .side-stack{display:flex;flex-direction:column;gap:13px;align-self:stretch;justify-content:center}.side-readout{border-top:1px solid #3e5365;padding:8px 2px;background:linear-gradient(#60bbff0a,transparent)}.side-readout .label{display:block;color:#8fa8bc;font:700 9px "DM Sans",sans-serif;letter-spacing:.1em}.side-readout output{display:block;color:#fff;font:800 clamp(15px,2vw,25px) "DM Sans",sans-serif;white-space:nowrap;font-variant-numeric:tabular-nums}.side-readout small{color:#7bbced;font-size:9px}.side-readout .mini-track{height:3px;background:#283b4b;margin-top:8px}.mini-track span{display:block;height:100%;width:0;background:linear-gradient(90deg,#4fb8ff,#e94353);transition:width .15s}
+    .gauge{width:100%;aspect-ratio:1.35;position:relative;margin:auto;display:grid;place-items:center;background:radial-gradient(ellipse at 50% 83%,#1d3243 0%,#0b131c 38%,#05090e 68%,transparent 72%);overflow:hidden}.gauge svg{position:absolute;inset:0;width:100%;height:100%}
+    .tick{stroke:#718797;stroke-width:1}.tick.major{stroke:#f2f8fd;stroke-width:2.2;filter:drop-shadow(0 0 3px #8ccfff)}.tick-label{fill:#eaf4fb;font:700 12px "DM Sans",sans-serif;text-anchor:middle;dominant-baseline:middle}.gauge-base{fill:none;stroke:#344758;stroke-width:11}.gauge-red{fill:none;stroke:#e43142;stroke-width:12;filter:drop-shadow(0 0 7px #f93646)}.gauge-fill{fill:none;stroke:url(#rpmGradient);stroke-width:7;stroke-linecap:round;filter:drop-shadow(0 0 7px #3bafff)}.needle{stroke:#e8f6ff;stroke-width:2.5;filter:drop-shadow(0 0 5px #7dd0ff)}.needle-hub{fill:#d6eaff;filter:drop-shadow(0 0 6px #79caff)}
+    .gauge-center{text-align:center;position:relative;z-index:1;margin-top:19%;pointer-events:none}.gauge-center small{display:block;color:#92b7d3;font:700 9px "DM Sans",sans-serif;letter-spacing:.22em}.rpm{display:block;font:800 clamp(34px,4.7vw,66px) "DM Sans",sans-serif;letter-spacing:-.075em;line-height:1.05;font-variant-numeric:tabular-nums;text-shadow:0 0 20px #ffffff55}.rpm-unit{color:#6abfff;font:700 10px "DM Sans",sans-serif;letter-spacing:.2em}.cluster-gear{display:flex;align-items:baseline;justify-content:center;gap:9px;margin-top:9px;color:#fff;font:800 clamp(35px,5vw,63px) "DM Sans",sans-serif;text-shadow:0 0 16px #4db4ffaa}.cluster-gear span{font-size:10px;color:#7dbbe8;letter-spacing:.18em}
+    .gauge-scale{position:absolute;bottom:2%;left:15%;right:15%;display:flex;justify-content:space-between;color:#a5bbcc;font:700 9px "DM Sans",sans-serif}
+    .cluster-bottom{padding:8px 4px 2px;border-top:1px solid #30404d}.rpm-bars{display:flex;gap:3px;align-items:end;height:16px}.rpm-bars span{width:12px;height:7px;background:#263846;border-radius:2px}.rpm-bars span:nth-child(n+7){height:11px}.rpm-bars span:nth-child(n+11){height:15px}.rpm-bars span.lit{background:#53baff;box-shadow:0 0 8px #47acff}.rpm-bars span.red.lit{background:#ff394d;box-shadow:0 0 8px #ff394d}
+    .cluster-frame[data-phase="off"] .instrument-grid,.cluster-frame[data-phase="off"] .cluster-bottom{opacity:.3}.cluster-frame[data-phase="backlight"] .instrument-grid{opacity:.55}
+    .gear-banner{position:relative;z-index:3;display:flex;align-items:center;justify-content:center;gap:14px;margin:8px auto -5px;padding:5px 14px;width:max-content;max-width:100%;border:1px solid #395c72;border-radius:9px;background:#091722e8;color:#8cd4ff;font:700 10px "DM Sans",sans-serif;letter-spacing:.09em;white-space:nowrap}.gear-banner strong{font-size:22px;color:white;line-height:1}.gear-banner span{overflow:hidden;text-overflow:ellipsis}.audio-status{margin:10px 0 0;color:#ffbd70;font-size:11px;line-height:1.5}.audio-status.ready{color:#68dab1}.pop-options{grid-template-columns:repeat(4,1fr)}.pop-options button{font-size:11px}.volume-row{margin-top:14px}@media(max-width:560px){.gear-banner{gap:7px;font-size:8px;padding:5px 8px}.gear-banner strong{font-size:18px}.pop-options button{padding:9px 2px}}
+    .speed-stage{position:relative;z-index:2;text-align:center;align-self:center;min-width:220px;margin:0 auto 22px;padding:10px 28px 12px;border-top:1px solid #4c6e83;border-bottom:1px solid #304858;background:linear-gradient(90deg,transparent,#10253699,transparent)}.speed-stage .speed-title{display:block;color:#84b9db;font:700 10px "DM Sans",sans-serif;letter-spacing:.23em}.speed-stage .speed-number{display:block;color:#f4faff;font:800 clamp(54px,7vw,86px)/1 "DM Sans",sans-serif;font-variant-numeric:tabular-nums;letter-spacing:-.06em;text-shadow:0 0 22px #55b9ff66}.speed-stage .speed-unit{display:block;color:#77caff;font:800 14px "DM Sans",sans-serif;letter-spacing:.2em}.speed-stage .speed-assumption{display:block;margin-top:8px;color:#93a8b7;font:500 10px "DM Sans",sans-serif;letter-spacing:.04em}.brake-button{width:100%;margin-top:13px;padding:12px;border:1px solid #a55b62;border-radius:9px;background:#39242a;color:#ffc6c9;font-weight:700;touch-action:none}.brake-button:hover,.brake-button.is-braking{background:#71343d;border-color:#ff8e96;color:#fff}.telemetry{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:7px;margin-top:auto}.telemetry-item{border:1px solid #455664;background:linear-gradient(145deg,#202b35,#090e13);border-radius:6px;border-top:2px solid #52b7f6;padding:12px 8px;min-width:0}.readout-label{display:block;color:#aabac5;font-size:8px;margin-bottom:8px;letter-spacing:.05em}.readout-value{font:800 clamp(12px,1.35vw,17px) "DM Sans",sans-serif;white-space:nowrap;color:#f4f8fc}.gear-box .readout-value,.boost-box .readout-value{color:#71caff}.micro-meter{height:3px;background:#2c3d4a;margin-top:10px;overflow:hidden}.micro-meter span{display:block;height:100%;width:0;background:linear-gradient(90deg,#59bdff,#fa4958)}
+    .exhaust-preview{margin-top:16px;border:1px solid #ffffff1b;background:linear-gradient(120deg,#101820,#25313a,#101820);border-radius:14px;padding:16px 20px;display:grid;grid-template-columns:minmax(130px,1fr) minmax(160px,1.4fr);align-items:center;gap:15px}.preview-copy strong{display:block;font-size:12px}.preview-copy span{display:block;font-size:11px;color:var(--muted);margin-top:4px;line-height:1.6}.exhaust-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:10px}.exhaust-choice{min-width:0;text-align:left;border:1px solid #465661;border-radius:12px;background:linear-gradient(150deg,#25313b,#121b22);color:var(--text);padding:9px;transition:border-color .2s,box-shadow .2s}.exhaust-choice:hover,.exhaust-choice.active{border-color:#75caff;box-shadow:inset 0 0 0 1px #75caff55,0 0 14px #55b9ff22}.exhaust-choice strong{display:block;font-size:11px;margin-top:6px}.exhaust-choice small{display:block;font-size:10px;color:#9eb2c0;line-height:1.5;margin-top:3px}.rear{position:relative;width:100%;height:90px;overflow:hidden;border-radius:15px 15px 9px 9px;background:linear-gradient(175deg,#67727b 0%,#2c3640 13%,#12191f 44%,#05090c 47%,#161e25 76%,#080b0e 100%);border:1px solid #8895a050;box-shadow:inset 0 2px 2px #ffffff30,inset 0 -9px 15px #000a,0 8px 17px #0008}.rear:before{content:'';position:absolute;inset:0 9% auto;height:38%;border-bottom:2px solid #74818a55;border-radius:0 0 45% 45%;background:linear-gradient(90deg,#0005,#ffffff12 48%,#0006)}.rear:after{content:'';position:absolute;bottom:0;left:20%;right:20%;height:12px;border-radius:15px 15px 0 0;border-top:1px solid #88929b50;background:#080d11}.rear .mount{position:absolute;inset:39% 4% 8%;border-radius:6px 6px 19px 19px;background:linear-gradient(160deg,#080b0d,#263038 32%,#070a0d 75%);box-shadow:inset 0 2px 8px #000,0 -1px 1px #78838a44}.rear .tips{position:absolute;z-index:2;inset:auto 7% 8%;height:49%;display:flex;align-items:center;justify-content:center;gap:5px}.tip{position:relative;display:block;flex:none;width:34px;height:34px;border-radius:50%;background:radial-gradient(ellipse at 52% 53%,#010203 0 29%,#0b141a 32%,#27343d 40%,#05080b 47%,#b8c3c9 52%,#515d66 61%,#11191e 72%);box-shadow:inset 1px 2px 2px #ffffff80,inset -3px -3px 4px #000,0 3px 5px #000d,0 0 0 2px #090c0f}.tip:after{content:'';position:absolute;inset:25% 28% 46% 24%;border-radius:50%;background:linear-gradient(#a9c7d04d,transparent);filter:blur(1px)}.rear.compact{height:57px;border-radius:8px}.compact .tips{height:50%;gap:3px}.compact .tip{width:23px;height:23px}.rear.single .tip{width:29px;height:29px}.rear.single:not(.compact) .tip{width:39px;height:39px}.rear.dual .tip{width:31px;height:31px}.rear.split .tips,.rear.quad .tips{justify-content:space-between}.rear.split .tips{inset-inline:12%}.rear.quad .tips{inset-inline:9%}.rear.quad .tip{width:26px;height:26px}.rear.quad .tip:nth-child(2){margin-right:auto}.rear.oval .tip{width:65px;height:33px;border-radius:50%}.rear.trapezoid .tip{width:63px;height:31px;border-radius:5px 5px 13px 13px;transform:perspective(50px) rotateX(-12deg)}.rear.titanium .tip{background:radial-gradient(circle at 50% 52%,#020508 0 29%,#152233 32%,#080b13 44%,#5475a0 49%,#b59abb 54%,#dca47f 60%,#344a70 69%,#111622 75%);box-shadow:inset 1px 2px 3px #b1d8ff88,0 3px 6px #000e,0 0 0 2px #111a27}.rear.carbon .tip{background:radial-gradient(circle,#020304 0 32%,#0d1719 37%,#1f2d31 45%,#69777a 50%,#101718 56%,#313a3b 64%,#090d0e 73%);box-shadow:inset 1px 2px 2px #ffffff55,0 3px 6px #000e,0 0 0 3px #171b1d}.rear.carbon .mount{background:repeating-linear-gradient(135deg,#161d20 0 2px,#20282a 2px 4px)}.rear.oval .mount,.rear.trapezoid .mount{border-radius:17px 17px 7px 7px}.compact.single .tip,.compact.dual .tip,.compact.quad .tip{width:22px;height:22px}.compact.oval .tip,.compact.trapezoid .tip{width:46px;height:23px}.preview-copy #preview-sound{color:#83cbfa}.exhaust-choice[aria-pressed=true] strong{color:#8bd4ff}@media(max-width:560px){.exhaust-preview{grid-template-columns:1fr}.rear:not(.compact){height:105px}.exhaust-grid{gap:6px}.exhaust-choice{padding:7px}}
+    .spec-readouts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:12px}.spec-readout{min-width:0;padding:11px;border:1px solid #456176;border-radius:9px;background:linear-gradient(145deg,#1d303d,#111c25)}.spec-readout span{display:block;color:#aabecb;font-size:10px;margin-bottom:5px}.spec-readout output{display:block;color:#8ed6ff;font:800 16px "DM Sans",sans-serif;font-variant-numeric:tabular-nums}
+    .controls{padding:27px}.control-heading{margin:0 0 18px}.engine-button{width:100%;border:1px solid #71caff;background:linear-gradient(110deg,#2788c9,#83d5ff);color:#07131d;border-radius:12px;padding:17px;display:flex;justify-content:center;align-items:center;gap:10px;font-size:15px;font-weight:700;box-shadow:0 7px 25px #3daaf94a}.engine-button:hover{filter:brightness(1.12)}.engine-button.running{background:#152430;color:#8ed4ff;box-shadow:inset 0 0 18px #54b9ff33}.engine-button svg{width:18px}.engine-button:disabled{opacity:.7;cursor:wait}
+    .control-group{border-bottom:1px solid #ffffff1c;padding:20px 0}.control-row{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:12px}.control-row label,.group-label{font-size:13px;font-weight:700}.control-value{color:#77caff;font:700 12px "DM Sans",sans-serif}input[type=range]{width:100%;margin:10px 0 5px;accent-color:#56baff;cursor:pointer}.range-labels{display:flex;justify-content:space-between;color:var(--muted);font:700 10px "DM Sans",sans-serif;letter-spacing:.08em}
+    .segmented{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:13px}.segmented button{background:#25313b;color:#b4c3cd;border:1px solid #485a68;border-radius:9px;padding:10px 5px;font-size:12px;font-weight:700}.segmented button:hover,.segmented button.active{color:#fff;border-color:#69c4ff;background:#24445b;box-shadow:0 0 14px #4cb6ff30}.shift-mode{grid-template-columns:repeat(2,1fr)}
+    .select-input{width:100%;background:#25313b;color:var(--text);border:1px solid #4a5c69;border-radius:9px;padding:11px 12px;font-size:13px}#cylinder-count{cursor:pointer;position:relative;z-index:1}#cylinder-count.is-custom{border-color:#75e3dc;box-shadow:0 0 0 1px #75e3dc88;background:#215558}.field-label{display:block;color:var(--muted);font-size:11px;margin:15px 0 8px}.hint{color:var(--muted);font-size:11px;line-height:1.6;margin:8px 0 0}.gear-controls{display:flex;align-items:center;gap:10px;margin-top:14px}.gear-controls button{width:43px;height:43px;border:1px solid #4a5c69;border-radius:9px;background:#25313b;color:var(--text);font-size:20px}.gear-controls button:hover{border-color:#69c4ff}.gear-controls button:disabled,#gear-select:disabled{opacity:.4;cursor:not-allowed}.gear-display{flex:1;text-align:center;color:#7acbff;font:800 24px "DM Sans",sans-serif}.mute-button{width:100%;margin-top:18px;border:0;background:none;color:var(--muted);display:flex;align-items:center;justify-content:center;gap:9px;padding:8px;font-size:12px}.mute-button:hover{color:var(--text)}.mute-button svg{width:17px}
+    .footnote{color:var(--muted);font-size:11px;line-height:1.8;margin:23px 0 0}.site-footer{border-top:1px solid #ffffff25;padding:25px 0 32px;color:var(--muted);font:700 10px "DM Sans",sans-serif;letter-spacing:.14em;display:flex;justify-content:space-between;gap:15px}
+    @media(max-width:950px){.dashboard{grid-template-columns:1fr}.gauge-panel{min-height:0}.gauge{max-width:570px}}
+    @media(max-width:560px){.shell{width:min(100% - 28px,1280px)}.site-header{min-height:67px}.header-label,.intro-note{display:none}main{padding:30px 0 48px}.intro{display:block}.gauge-panel{padding:16px}.cluster-frame{padding:14px 9px;border-radius:25px}.instrument-grid{grid-template-columns:minmax(53px,1fr) minmax(0,3.8fr) minmax(53px,1fr);gap:0}.side-stack{gap:3px}.side-readout .label{font-size:7px}.side-readout output{font-size:15px}.side-readout small{font-size:7px}.gauge-center{margin-top:23%}.rpm{font-size:clamp(29px,8vw,48px)}.cluster-gear{font-size:38px;margin-top:0}.cluster-bottom{font-size:8px}.telemetry{grid-template-columns:repeat(3,minmax(0,1fr))}.telemetry-item{padding:11px 8px}.readout-value{font-size:14px}.controls{padding:20px}.site-footer{flex-direction:column}}
+    /* Driver-eye cockpit: windshield behind a recessed binnacle and a partial wheel in front. */
+    .dashboard{grid-template-columns:minmax(0,1.65fr) minmax(320px,.72fr)}
+    .gauge-panel{position:relative;isolation:isolate;overflow:hidden;padding:24px 25px 32px;background:linear-gradient(165deg,#101a25 0%,#080c12 57%,#222a32 100%)}
+    .gauge-panel:before{content:"";position:absolute;z-index:0;inset:auto -18% -115px;height:220px;border:38px solid #05070a;border-radius:50%;box-shadow:inset 0 8px 18px #6c7d8955,0 -7px 25px #000;pointer-events:none}
+    .gauge-panel:after{content:"";position:absolute;z-index:0;bottom:0;left:0;right:0;height:115px;background:linear-gradient(0deg,#080a0d 10%,#1b252c 80%,transparent);clip-path:polygon(0 45%,34% 100%,66% 100%,100% 45%,100% 100%,0 100%);pointer-events:none}
+    .gauge-panel>*:not(.cockpit-view){position:relative;z-index:1}
+    .cockpit-view{height:190px;margin:16px -25px -66px;position:relative;overflow:hidden;z-index:0;background:linear-gradient(180deg,#101c2b,#263f50 57%,#10161d 75%,#06090d);border-top:2px solid #344652}
+    .cockpit-view:before,.cockpit-view:after{content:"";position:absolute;z-index:3;top:-25px;bottom:-35px;width:65px;background:linear-gradient(90deg,#050608,#25313b,#0b1016);box-shadow:0 0 25px #000a}
+    .cockpit-view:before{left:-22px;transform:skewX(-16deg)}.cockpit-view:after{right:-22px;transform:skewX(16deg)}
+    .windshield{position:absolute;inset:0;background:linear-gradient(115deg,transparent 20%,#b8e3ff12 35%,transparent 51%),linear-gradient(170deg,#d0e9ff0c,transparent 50%)}
+    .horizon{position:absolute;top:55%;left:0;right:0;height:2px;background:#79b5cc35;box-shadow:0 0 25px #a7d2ed6b}.road{position:absolute;bottom:-30px;left:20%;width:60%;height:95px;background:linear-gradient(90deg,#0000 0 47%,#a8c3c34d 49% 50%,#0000 51% 100%),linear-gradient(#26343b,#080b0f);clip-path:polygon(44% 0,56% 0,100% 100%,0 100%);opacity:.65}
+    .dashboard-cowl{position:absolute;bottom:-72px;left:-12%;width:124%;height:112px;border-radius:50% 50% 0 0;background:linear-gradient(#43525d,#141c23 20%,#06090d 70%);box-shadow:0 -8px 17px #0009,inset 0 4px 5px #ffffff18}
+    .cluster-frame{z-index:2!important;margin:0 7% 24px;padding:20px 22px 24px;border-radius:70px 70px 35px 35px;background:linear-gradient(160deg,#697780 0%,#090d12 2%,#030508 15%,#0b1620 58%,#020407 92%,#65747d);box-shadow:inset 0 2px 3px #ffffff58,inset 0 0 0 9px #050608,0 20px 42px #000e,0 0 0 15px #0a0e12}
+    .cluster-frame:after{background:linear-gradient(125deg,#ffffff12,transparent 52%)}
+    .gauge{aspect-ratio:1.5;background:radial-gradient(ellipse at 50% 82%,#142b3e,#050a10 65%,transparent 73%)}
+    .gauge-center{margin-top:16%}.cluster-gear{margin-top:0;line-height:.9}.cluster-gear span{font-size:10px}.rpm{font-size:clamp(38px,5vw,72px)}
+    .telemetry{position:relative;z-index:2!important;margin-top:28px}.exhaust-preview{position:relative;z-index:2!important}
+    @media(max-width:950px){.dashboard{grid-template-columns:1fr}.cluster-frame{max-width:750px;margin-left:auto;margin-right:auto}}
+    @media(max-width:560px){.cockpit-view{margin-left:-16px;margin-right:-16px;height:135px;margin-bottom:-45px}.cluster-frame{margin:0 0 20px;padding:15px 9px 18px;border-radius:34px 34px 22px 22px;box-shadow:inset 0 2px 3px #ffffff58,inset 0 0 0 5px #050608,0 16px 30px #000c}.gauge{aspect-ratio:1.15}.gauge-center{margin-top:19%}.rpm{font-size:clamp(29px,8vw,48px)}.cluster-gear{font-size:32px}.gauge-panel:before{bottom:-115px}.telemetry{margin-top:15px}}
+    /* Frameless instrument display; all controls and surrounding panels remain unchanged. */
+    #cluster-frame{width:100%;max-width:none;margin:0 0 24px;padding:18px 0 16px;border:0;border-radius:0;background:none;box-shadow:none;overflow:visible}
+    #cluster-frame::before,#cluster-frame::after{content:none}
+    #cluster-frame .gear-banner{border:0;border-radius:0;background:none;box-shadow:none;padding:5px 8px}
+    #cluster-frame .side-readout{border:0;background:none;padding:8px 2px}
+    #cluster-frame .side-stack{gap:10px}
+    #cluster-frame .cluster-bottom{border:0}
+    #cluster-frame .gauge{background:none}
+    #cluster-frame .instrument-grid{grid-template-columns:minmax(76px,1fr) minmax(0,4.3fr) minmax(76px,1fr);gap:8px}
+    @media(max-width:560px){#cluster-frame{margin:0 0 20px;padding:12px 0 14px}#cluster-frame .instrument-grid{grid-template-columns:minmax(53px,1fr) minmax(0,3.5fr) minmax(53px,1fr);gap:2px}#cluster-frame .side-stack{gap:3px}#cluster-frame .side-readout{padding:6px 0}#cluster-frame .side-readout output{font-size:clamp(12px,3.3vw,15px)}}
+    /* Balanced driver-eye cockpit with neutral trim and clear instrument lighting. */
+    :root{--blue:#65b9ed;--line:#536675;--muted:#aab9c6}
+    body{background:radial-gradient(ellipse at 50% -10%,#354b5c,transparent 60%),#18242d}
+    :focus-visible{outline-color:#9cdbff}
+    .panel{border-color:#6c839488;background:linear-gradient(145deg,#344550,#25333e 55%,#1d2b35)}
+    .gauge-panel{background:radial-gradient(ellipse at 50% 56%,#405461 0%,#293b47 58%,#1b2b36 100%);border:1px solid #7890a0;box-shadow:inset 0 2px 2px #fff2,0 20px 45px #07131a77}
+    .gauge-panel:after{background:linear-gradient(0deg,#1d2b35,#3b505e 75%,transparent)}
+    .cockpit-view{background:linear-gradient(#1d2020,#514a41 55%,#17120f 78%,#080707);border-top-color:#6b5d4b}.windshield{background:linear-gradient(115deg,transparent 20%,#fff3 34%,transparent 52%)}.horizon{background:#e4b98544}.road{background:linear-gradient(90deg,transparent 47%,#d4bb9355 50%,transparent 53%),linear-gradient(#36332d,#0b0a09)}
+    .dashboard-cowl{background:repeating-linear-gradient(103deg,#ffffff05 0 1px,transparent 1px 5px),linear-gradient(#59473a,#241a16 22%,#090807 80%);box-shadow:0 -8px 20px #000a,inset 0 3px 4px #ffdb9b44}
+    #cluster-frame{padding:18px 15px 16px;border-radius:35px;background:repeating-linear-gradient(103deg,#ffffff05 0 1px,transparent 1px 4px),linear-gradient(150deg,#3d2f28,#110e0c 23%,#080807 78%,#3b3028);box-shadow:inset 0 2px 2px #e5c49b55,inset 0 0 0 2px #080706,0 0 0 5px #6a5543,0 0 0 7px #1b1511,0 16px 38px #000d;overflow:hidden}
+    #cluster-frame::before{content:"";display:block;position:absolute;inset:8px;border:1px dashed #a98c6755;border-radius:29px;pointer-events:none}
+    #cluster-frame::after{content:"";display:block;position:absolute;inset:0 0 auto;height:30%;background:linear-gradient(165deg,#fff1,transparent 60%);pointer-events:none}
+    .cluster-header,.cluster-bottom{color:#d6b78d}.drive-mode,.gear-box .readout-value,.boost-box .readout-value,.cluster-gear span,.side-readout small,.rpm-unit{color:#f7bd70;text-shadow:0 0 9px #ed9b3f55}
+    .status.running,.status.running .status-dot{color:#f5bb6c;background-color:#f5bb6c}.status.running .status-dot{box-shadow:0 0 12px #f5bb6c}
+    #cluster-frame .gauge{border-radius:50%;aspect-ratio:1.32;background:radial-gradient(circle at 50% 55%,#211b17 0%,#090a0b 58%,#292724 72%,#ded3c2 74%,#675a4b 76%,#090807 79%,transparent 81%);filter:drop-shadow(0 8px 12px #000)}
+    .tick{stroke:#b5a28c}.tick.major{stroke:#fff4dc;filter:drop-shadow(0 0 4px #ffd595)}.tick-label{fill:#fff3df}.gauge-base{stroke:#463b31}.gauge-fill{filter:drop-shadow(0 0 6px #f5ab54)}.needle{stroke:#fff1d5;stroke-width:3.2;filter:drop-shadow(0 0 5px #ffb65c)}.needle-hub{fill:#c8b39a;stroke:#3b2d24;stroke-width:2}.gauge-center small{color:#ddbb92}.rpm{text-shadow:0 0 16px #ffdfaa77}.cluster-gear{color:#fff5df;text-shadow:0 0 16px #f7ad65}
+    #cluster-frame .side-readout{border-top:1px solid #80634a88;background:linear-gradient(#ffd2990a,transparent)}.side-readout .label{color:#c8ad8a}.mini-track,.micro-meter{background:#3e3025}.mini-track span,.micro-meter span{background:linear-gradient(90deg,#a86d35,#ffd38b,#e74d42)}.rpm-bars span.lit{background:#ffc478;box-shadow:0 0 8px #ffb566}
+    #cluster-frame .gear-banner{color:#f6c17b}.speed-stage{border-color:#8b6546;background:linear-gradient(90deg,transparent,#57351c66,transparent)}.speed-stage .speed-title,.speed-stage .speed-unit{color:#eec08b}.speed-stage .speed-number{text-shadow:0 0 22px #e99b5655}.telemetry-item{border-color:#6c5745;border-top-color:#dba05a;background:linear-gradient(145deg,#302720,#100e0d)}
+    .engine-button{border-color:#e6ad6b;background:linear-gradient(110deg,#995b2d,#f1c27f);color:#1c110a;box-shadow:0 7px 25px #b5763644}.engine-button.running{background:#30251c;color:#ffcd8e}.segmented button.active,.segmented button:hover{border-color:#dda462;background:#513723;box-shadow:0 0 14px #d4954933}input[type=range]{accent-color:#d99b55}.control-value,.gear-display{color:#ffc581}.exhaust-choice:hover,.exhaust-choice.active{border-color:#d9a463;box-shadow:0 0 14px #b97c3733}
+    .immersive-toggle{display:flex;align-items:center;gap:7px;padding:8px 11px;border:1px solid #aa8055;border-radius:8px;background:#241a14;color:#f5d7a9;font-size:11px;white-space:nowrap}.immersive-toggle svg{width:15px;height:15px}.immersive-toggle:hover{background:#4a3020}
+    .dashboard{transition:background .3s ease}.dashboard.immersive{position:fixed;inset:0;z-index:1000;overflow:auto;display:grid;grid-template-columns:minmax(0,1.65fr) minmax(300px,.72fr);align-items:start;gap:18px;padding:20px;overscroll-behavior:contain;background:#0d0a08;animation:cockpit-enter .28s ease-out}.dashboard.immersive .gauge-panel{min-height:calc(100vh - 40px)}.dashboard.immersive #cluster-frame{max-width:none}.dashboard.immersive .controls{max-height:calc(100vh - 40px);overflow:auto;scrollbar-color:#9c7147 #211912}@keyframes cockpit-enter{from{opacity:.3;transform:scale(.985)}to{opacity:1;transform:scale(1)}}
+    @media(max-width:950px){.dashboard.immersive{grid-template-columns:1fr}.dashboard.immersive .controls{max-height:none;overflow:visible}}
+    @media(max-width:560px){.panel-top{flex-wrap:wrap}.panel-top .panel-title{flex:1 1 45%}.dashboard.immersive{padding:10px;gap:12px}.dashboard.immersive .gauge-panel{min-height:0}#cluster-frame{padding:12px 6px 14px}#cluster-frame .instrument-grid{grid-template-columns:minmax(47px,1fr) minmax(0,3.5fr) minmax(47px,1fr);gap:2px}#cluster-frame .side-readout output{font-size:clamp(11px,3.3vw,16px)}#cluster-frame .side-readout small{font-size:7px;overflow-wrap:anywhere}#cluster-frame .gauge{aspect-ratio:1.12}.cluster-header{font-size:8px}.cluster-lamps{gap:5px}.speed-stage{min-width:0;width:min(100%,260px)}}
+    /* Neutral cockpit trim overrides the former dark leather and amber accents. */
+    .cockpit-view{background:linear-gradient(#7694a5,#a6bbc5 55%,#536b78 78%,#263540);border-top-color:#8fa9b7}.windshield{background:linear-gradient(115deg,transparent 20%,#ffffff33 34%,transparent 52%)}.horizon{background:#e4f4ff88}.road{background:linear-gradient(90deg,transparent 47%,#d4e5ed88 50%,transparent 53%),linear-gradient(#647b85,#273a46)}
+    .dashboard-cowl{background:linear-gradient(#718897,#394d5a 22%,#243641 80%);box-shadow:0 -8px 20px #14232b88,inset 0 3px 4px #ffffff44}
+    #cluster-frame{background:linear-gradient(150deg,#344b5b,#172731 23%,#14222c 78%,#344b5b);box-shadow:inset 0 2px 2px #d7efff55,inset 0 0 0 2px #14232b,0 0 0 5px #718b9b,0 0 0 7px #253a48,0 14px 30px #10212b99}
+    #cluster-frame::before{border:1px solid #b2d1e244} .cluster-header,.cluster-bottom{color:#c8e0ec}.drive-mode,.gear-box .readout-value,.boost-box .readout-value,.cluster-gear span,.side-readout small,.rpm-unit{color:#83d2ff;text-shadow:0 0 9px #65baff55}
+    .status.running,.status.running .status-dot{color:#83d2ff;background-color:#83d2ff}.status.running .status-dot{box-shadow:0 0 12px #83d2ff}
+    #cluster-frame .gauge{background:radial-gradient(circle at 50% 55%,#263d4c 0%,#142531 58%,#354e5c 72%,#b6cbd4 74%,#5e7888 76%,#172733 79%,transparent 81%)}
+    .tick{stroke:#a2bccb}.tick.major{stroke:#f2faff;filter:drop-shadow(0 0 4px #8ed4ff)}.tick-label{fill:#e9f7ff}.gauge-base{stroke:#3d5869}.gauge-fill{filter:drop-shadow(0 0 6px #75caff)}.needle{stroke:#edfaff;filter:drop-shadow(0 0 5px #87d4ff)}.needle-hub{fill:#d9f1ff;stroke:#3b6074}.gauge-center small{color:#b1d0e2}.rpm{text-shadow:0 0 16px #8ed4ff77}.cluster-gear{color:#f2faff;text-shadow:0 0 16px #65b9ed}
+    #cluster-frame .side-readout{border-top:1px solid #7193a688;background:linear-gradient(#8ad3ff0a,transparent)}.side-readout .label{color:#bed6e3}.mini-track,.micro-meter{background:#344f60}.mini-track span,.micro-meter span{background:linear-gradient(90deg,#4899c9,#8cdbff,#ed6974)}.rpm-bars span.lit{background:#72caff;box-shadow:0 0 8px #72caff}
+    #cluster-frame .gear-banner{color:#91d7ff}.speed-stage{border-color:#7193a6;background:linear-gradient(90deg,transparent,#3b718766,transparent)}.speed-stage .speed-title,.speed-stage .speed-unit{color:#9bdcff}.speed-stage .speed-number{text-shadow:0 0 22px #65b9ed55}.telemetry-item{border-color:#698598;border-top-color:#75bce9;background:linear-gradient(145deg,#344b5a,#20323e)}
+    .engine-button{border-color:#8bd6ff;background:linear-gradient(110deg,#388dbb,#a3e0ff);color:#102934;box-shadow:0 7px 25px #4199c744}.engine-button.running{background:#294657;color:#a5e2ff}.segmented button.active,.segmented button:hover{border-color:#8bd6ff;background:#355f77;box-shadow:0 0 14px #5ebaff33}input[type=range]{accent-color:#65b9ed}.control-value,.gear-display{color:#a1dcff}.exhaust-choice:hover,.exhaust-choice.active{border-color:#8bd6ff;box-shadow:0 0 14px #5ebaff33}.immersive-toggle{border-color:#7a9cb0;background:#29414f;color:#d6efff}.immersive-toggle:hover{background:#3b6379}.dashboard.immersive{background:#243641}.dashboard.immersive .controls{scrollbar-color:#739cb2 #263946}
+    /* Precision-machined instrument finish; retain the existing cool steel palette. */
+    #cluster-frame{border:1px solid #a2c1d044;background:repeating-linear-gradient(105deg,#ffffff04 0 1px,transparent 1px 4px),linear-gradient(158deg,#405a6a 0%,#263b49 3%,#101d27 22%,#0d1922 70%,#354e5d 98%);box-shadow:inset 0 2px 2px #e3f6ff70,inset 0 -9px 24px #02090eaa,inset 0 0 0 3px #0b1923,0 0 0 4px #8ba9ba,0 0 0 6px #263d4b,0 0 0 8px #101c25,0 20px 38px #07131cbb,0 32px 55px #07131a66}
+    #cluster-frame::before{inset:10px;border:1px solid #9fbccd48;box-shadow:inset 0 1px 0 #ecfaff24,0 1px 0 #0009}
+    #cluster-frame::after{content:"";display:block;inset:2px 12% auto;height:45%;border-radius:50% 50% 30% 30%;background:linear-gradient(165deg,#e7f7ff16 0%,#c9e7f509 32%,transparent 66%);transform:skewX(-12deg);pointer-events:none}
+    #cluster-frame .cluster-header{padding:1px 8px 7px;border-bottom:1px solid #adc8d02b;text-shadow:0 1px 2px #000}.cluster-lamps{padding:4px 7px;border:1px solid #6d8a9b44;border-radius:20px;background:#07131b88;box-shadow:inset 0 1px 3px #0009}
+    #cluster-frame .gear-banner{gap:12px;margin:11px auto -2px;padding:7px 15px;border:1px solid #7b9caf55;border-radius:7px;background:linear-gradient(180deg,#2a43525c,#0b1a2499);box-shadow:inset 0 1px #d6edfa18,0 5px 12px #0006;letter-spacing:.12em}#cluster-frame .gear-banner strong{font-size:24px;color:#f4fbff;text-shadow:0 0 12px #8bd7ff88}
+    #cluster-frame .instrument-grid{gap:12px;margin:11px 0 11px}#cluster-frame .gauge{isolation:isolate;background:radial-gradient(circle at 50% 55%,#263d4c 0%,#142531 57%,#354e5c 69%,#d0e0e7 71%,#708e9e 72%,#253c4a 74%,#b6cbd4 75%,#5e7888 77%,#172733 80%,transparent 82%);filter:drop-shadow(0 11px 12px #000b) drop-shadow(0 2px 1px #d5efff44)}
+    #cluster-frame .gauge::before{content:"";position:absolute;z-index:0;inset:14%;border-radius:50%;background:radial-gradient(ellipse at 50% 110%,#638da51c,transparent 52%),linear-gradient(150deg,#e6f7ff0b,transparent 35%);box-shadow:inset 0 14px 23px #02080d99,inset 0 -3px 12px #a4c9de18;pointer-events:none}#cluster-frame .gauge::after{content:"";position:absolute;z-index:2;top:9%;left:21%;width:44%;height:19%;border-radius:50%;background:linear-gradient(170deg,#e6f7ff17,transparent 75%);transform:rotate(-18deg);filter:blur(5px);pointer-events:none}
+    #cluster-frame .gauge svg{z-index:1;overflow:visible}.gauge-base{stroke:#415b6c;stroke-width:13;filter:drop-shadow(0 2px 2px #000)}.gauge-red{stroke-width:10;filter:drop-shadow(0 0 6px #eb4b5b88)}.gauge-fill{stroke-width:6;filter:drop-shadow(0 0 5px #9cdbff) drop-shadow(0 0 10px #65b9ed88)}.tick{stroke:#a6c1ce;stroke-width:1.15}.tick.major{stroke:#f5fbff;stroke-width:2.5;filter:drop-shadow(0 0 3px #afdfff)}.tick-label{font-weight:800;fill:#f1faff;paint-order:stroke;stroke:#172935;stroke-width:2px;filter:drop-shadow(0 0 3px #85c8eb77)}.needle{stroke:#f6fcff;stroke-width:3;stroke-linecap:round;filter:drop-shadow(1px 3px 2px #000) drop-shadow(0 0 5px #a5e2ff)}.needle-hub{fill:#d9f1ff;stroke:#344e5d;stroke-width:2.5;filter:drop-shadow(0 2px 2px #000) drop-shadow(0 0 5px #9bdcff)}
+    .gauge-center{z-index:3}.gauge-center small{letter-spacing:.26em;color:#c0dbe9;text-shadow:0 1px 3px #000}.rpm{color:#f8fcff;letter-spacing:-.065em;text-shadow:0 2px 3px #000,0 0 12px #b4e4ff88;font-variant-numeric:tabular-nums}.rpm-unit{display:block;margin-top:2px;font-size:11px;letter-spacing:.26em}.cluster-gear{align-items:center;gap:10px;margin-top:8px;font-variant-numeric:tabular-nums;text-shadow:0 2px 2px #000,0 0 12px #79c8ef88}.cluster-gear span{font-size:10px}.gauge-scale{bottom:1%;text-shadow:0 2px 3px #000}
+    #cluster-frame .side-stack{gap:9px}#cluster-frame .side-readout{position:relative;min-width:0;padding:10px 8px 9px;border:1px solid #7594a64d;border-left:2px solid #a9cddd77;border-radius:6px;background:linear-gradient(135deg,#9fd7f010,#142a3877 45%,#091923b8);box-shadow:inset 0 1px #d7efff15,0 4px 9px #0004}#cluster-frame .side-readout .label{font-size:9px;letter-spacing:.15em;color:#bed8e7}#cluster-frame .side-readout output{margin-top:4px;color:#f7fcff;text-shadow:0 1px 2px #000,0 0 9px #8bd4ff55}#cluster-frame .side-readout small{display:block;margin-top:2px;line-height:1.25;color:#a4d9f5}#cluster-frame .mini-track{height:3px;border-radius:3px;overflow:hidden;background:#0a1822;box-shadow:0 1px 0 #c4e6f822}.mini-track span{box-shadow:0 0 7px #80ceff}
+    #cluster-frame .cluster-bottom{padding:10px 8px 3px;border-top:1px solid #93b4c04d;text-shadow:0 1px 2px #000}.rpm-bars span{box-shadow:inset 0 1px #c0d8e322}.rpm-bars span.lit{box-shadow:0 0 9px #72caff,0 0 2px #fff}.speed-stage{border-top-width:2px;box-shadow:0 -8px 18px #080f1522}.speed-stage .speed-number{font-variant-numeric:tabular-nums;text-shadow:0 2px 3px #091b27,0 0 20px #65b9ed77}
+    @media(max-width:560px){#cluster-frame .instrument-grid{gap:2px}#cluster-frame .side-readout{padding:6px 3px;border-left-width:1px}#cluster-frame .side-readout .label{font-size:7px;letter-spacing:.04em}#cluster-frame .side-readout small{font-size:7px;overflow-wrap:anywhere}#cluster-frame .gear-banner{gap:6px;padding:5px 7px}#cluster-frame .gear-banner strong{font-size:18px}.rpm-unit{font-size:9px}.cluster-gear{margin-top:2px}}
+    @media(prefers-reduced-motion:reduce){.dashboard.immersive{animation:none}}
+    /* 16:9 cockpit composition with compact, independently scrollable controls. */
+    .shell{width:min(100% - 32px,1600px)}main{padding:16px 0 28px}.intro{margin-bottom:14px}.intro h1{font-size:clamp(24px,3vw,38px);margin:4px 0}.intro p{font-size:11px}.site-header{min-height:52px}.dashboard{grid-template-columns:minmax(0,1fr) minmax(290px,28%);gap:14px;align-items:stretch;min-height:min(760px,calc(100vh - 180px))}.gauge-panel{min-height:0;padding:14px 18px 20px}.cockpit-view{height:clamp(90px,13vh,145px);margin:9px -18px -38px}.cluster-frame{flex:none}.speed-stage{margin:0 auto 12px;padding:4px 20px}.speed-stage .speed-number{font-size:clamp(42px,5.2vw,72px)}.telemetry{margin-top:10px;gap:5px}.telemetry-item{padding:7px}.exhaust-preview{margin-top:10px;padding:10px 14px}.rear{height:65px}.controls{padding:18px;max-height:min(760px,calc(100vh - 180px));overflow-y:auto;scrollbar-color:#739cb2 #263946}.control-group{padding:13px 0}.control-heading{margin-bottom:10px}#cluster-frame{margin-bottom:12px;padding:10px 13px}#cluster-frame .instrument-grid{margin:5px 0;grid-template-columns:minmax(80px,1fr) minmax(0,3.7fr) minmax(80px,1fr)}#cluster-frame .gauge{max-height:clamp(180px,29vh,300px);width:auto;max-width:100%}.gauge-center{margin-top:12%}.rpm{font-size:clamp(32px,4vw,58px)}.cluster-gear{font-size:clamp(30px,4vw,50px);margin-top:2px}.cockpit-alerts{display:flex;gap:6px;align-items:center;flex-wrap:wrap}.cockpit-alerts span{padding:4px 7px;border:1px solid #638398;border-radius:5px;color:#a9c5d5;font:800 9px 'DM Sans',sans-serif;letter-spacing:.08em}.cockpit-alerts .active{color:#a3f5d0;border-color:#43c99c;box-shadow:0 0 10px #43c99c44}.cockpit-alerts .warning{color:#ff777e;border-color:#ff5962;box-shadow:0 0 10px #ff596255;animation:warn-pulse .55s alternate infinite}@keyframes warn-pulse{to{opacity:.45}}.shift-shake{animation:shift-shake .24s ease-out}@keyframes shift-shake{20%{transform:translateX(3px)}45%{transform:translateX(-3px)}70%{transform:translateX(2px)}}.drive-controls{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:10px}.drive-controls button,.toggle-control,.record-save{border:1px solid #66879a;background:#263b49;color:#d8effa;border-radius:8px;padding:9px;font-size:11px;font-weight:700}.drive-controls button.active,.toggle-control.active{background:#396581;border-color:#9bdcff;color:white}.toggle-pair{display:grid;grid-template-columns:repeat(2,1fr);gap:7px;margin-top:9px}.record-panel{border:1px solid #68889a;border-radius:10px;padding:10px;margin-top:12px;background:#142530}.record-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:5px;margin:9px 0}.record-grid div{min-width:0;border-left:2px solid #7bcaff;padding-left:6px}.record-grid small{display:block;color:#aac2d0;font-size:9px}.record-grid output{font:700 12px 'DM Sans',sans-serif}.record-save{width:100%}.record-save:disabled{opacity:.5}.record-status{font-size:10px;color:#a9c5d5;min-height:1.4em;margin:5px 0 0}@media(max-width:950px){.dashboard{grid-template-columns:1fr;min-height:0}.controls{max-height:none;overflow:visible}.gauge-panel{min-height:0}}@media(max-width:560px){.shell{width:min(100% - 20px,1600px)}.dashboard{gap:10px}.gauge-panel{padding:12px}.cockpit-view{margin-left:-12px;margin-right:-12px}#cluster-frame .instrument-grid{grid-template-columns:minmax(47px,1fr) minmax(0,3.5fr) minmax(47px,1fr);gap:2px}#cluster-frame .gauge{width:100%;max-height:none}.telemetry{grid-template-columns:repeat(3,1fr)}.record-grid output{font-size:11px}}@media(prefers-reduced-motion:reduce){.cockpit-alerts .warning,.shift-shake{animation:none}}
+    /* Twin analog instruments, chrome bezels and teal backlighting. */
+    :root{--bg:#05090c;--panel:#0d151a;--blue:#60e4df;--muted:#a8c0c7}
+    body{background:radial-gradient(ellipse at 50% 10%,#183039 0%,#070d11 54%,#020405 100%);color:#f4fbfc}
+    .site-header{border-color:#659ca440}
+    .panel,.gauge-panel{background:linear-gradient(145deg,#253039 0%,#0b1116 24%,#080c10 70%,#202a30);border-color:#697d86;box-shadow:inset 0 1px 1px #d8f6ff55,0 20px 45px #000a}
+    .gauge-panel{background:radial-gradient(ellipse at 50% 38%,#263d46,#090f14 65%,#05080b);padding-bottom:22px}
+    .cockpit-view{background:linear-gradient(#101a20,#283d44 60%,#080d11);opacity:.8}.dashboard-cowl{background:linear-gradient(#556971,#151d22 25%,#05080a 80%)}
+    #cluster-frame{background:linear-gradient(155deg,#647b84,#17242b 4%,#03080b 20%,#080e11 78%,#344650 97%);border:1px solid #b0c7cc;box-shadow:inset 0 2px 2px #e6fbff88,inset 0 0 0 4px #05090c,0 0 0 5px #839ba3,0 0 0 8px #17232a,0 18px 38px #000e;border-radius:42px;padding:12px 15px 15px}
+    #cluster-frame::before{border:1px solid #a0cace30}#cluster-frame::after{background:linear-gradient(160deg,#ffffff18,transparent 50%)}
+    #cluster-frame .instrument-grid{display:grid;grid-template-columns:minmax(65px,.85fr) minmax(0,2.55fr) minmax(0,2.55fr) minmax(65px,.85fr);gap:clamp(3px,1vw,15px);align-items:center;margin:10px 0 12px}
+    #cluster-frame .gauge,.speed-gauge{width:100%;max-width:none;max-height:none;aspect-ratio:1/1;border-radius:50%;position:relative;isolation:isolate;overflow:hidden;background:radial-gradient(circle at 50% 48%,#12232a 0%,#050b0f 57%,#263841 67%,#bfd3d6 69%,#485b63 71%,#ecf4f1 73%,#374b54 75%,#05090c 78%,transparent 80%);filter:drop-shadow(0 10px 10px #000c)}
+    #cluster-frame .gauge::before,.speed-gauge::before{content:"";position:absolute;inset:14%;border-radius:50%;background:radial-gradient(circle at 50% 110%,#41c6cb19,transparent 60%),linear-gradient(155deg,#ffffff13,transparent 38%);box-shadow:inset 0 10px 18px #000a;pointer-events:none}
+    #cluster-frame .gauge::after,.speed-gauge::after{content:"";position:absolute;z-index:4;left:24%;top:13%;width:45%;height:20%;border-radius:50%;background:#d5f9ff12;filter:blur(9px);pointer-events:none}
+    #cluster-frame .gauge svg,.speed-gauge svg{position:absolute;inset:0;width:100%;height:100%;z-index:1;overflow:visible}
+    .gauge-center{margin-top:18%;z-index:2}.rpm{font-size:clamp(23px,3vw,48px)}.cluster-gear{font-size:clamp(22px,3vw,42px)}.gauge-scale{bottom:9%;left:20%;right:20%}
+    .tick{stroke:#65c4c4}.tick.major{stroke:#edffff}.tick-label{fill:#f3ffff}.gauge-base{stroke:#29494c}.gauge-fill{filter:drop-shadow(0 0 7px #52e7db)}.needle{stroke:#f5ffff;filter:drop-shadow(0 0 6px #67f9ef)}.needle-hub{fill:#d9e9e9}.rpm-unit,.drive-mode,.side-readout small,.cluster-gear span{color:#80e7e2}
+    .speed-gauge{display:grid;place-items:center}.speed-gauge svg{z-index:1}.speed-tick{stroke:#78c5c4;stroke-width:1.5}.speed-tick.major{stroke:#f0ffff;stroke-width:2.8}.speed-label{font:700 13px 'DM Sans',sans-serif;fill:#eaffff;text-anchor:middle;dominant-baseline:middle}.speed-gauge #speed-needle{stroke:#f2ffff;stroke-width:3;stroke-linecap:round;filter:drop-shadow(0 0 6px #58e9df)}.speed-hub{fill:#d4e9e9;stroke:#39575c;stroke-width:3}.speed-center{position:relative;z-index:2;text-align:center;margin-top:36%;pointer-events:none;text-shadow:0 2px 4px #000}.speed-center span{display:block;color:#93d7d5;font:700 9px 'DM Sans',sans-serif;letter-spacing:.2em}.speed-center output{display:block;font:800 clamp(25px,3.2vw,52px)/1 'DM Sans',sans-serif;font-variant-numeric:tabular-nums}.speed-center small{font:700 10px 'DM Sans',sans-serif;color:#83e6e0}
+    #cluster-frame .side-stack{gap:8px;align-self:center}#cluster-frame .side-readout{aspect-ratio:1/1;min-width:0;padding:8px 3px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;border:3px solid #9db8bc;border-radius:50%;background:radial-gradient(circle,#13262d 0%,#050a0d 67%,#3b5056 76%,#d5e1de 82%,#16232a 88%);box-shadow:inset 0 0 14px #000,0 5px 9px #000b;overflow:hidden}#cluster-frame .side-readout .label{font-size:clamp(6px,.7vw,9px);letter-spacing:.06em;color:#97d6d3}#cluster-frame .side-readout output{font-size:clamp(10px,1.4vw,21px);line-height:1.1;margin:3px 0}#cluster-frame .side-readout small{font-size:clamp(6px,.6vw,8px);line-height:1.1;overflow-wrap:anywhere}#cluster-frame .mini-track{width:64%;margin-top:5px}
+    #cluster-frame .cluster-header,#cluster-frame .cluster-bottom{color:#b3d4d7}#cluster-frame .gear-banner{background:#07151a;border-color:#638d94;color:#94e4e1}.speed-stage{background:linear-gradient(90deg,transparent,#16444766,transparent);border-color:#4c8b8d}.speed-stage .speed-title,.speed-stage .speed-unit{color:#8be6e0}.telemetry-item{background:linear-gradient(145deg,#17272d,#080e11);border-color:#47656d;border-top-color:#62d7d1}.engine-button{background:linear-gradient(110deg,#168e95,#a3f1e8);border-color:#8ff5eb;color:#06191b}.engine-button.running{background:#15383a;color:#b1f5f0}.segmented button.active,.segmented button:hover,.drive-controls button.active,.toggle-control.active{background:#215558;border-color:#75e3dc}input[type=range]{accent-color:#64ddd5}.record-panel{background:#0c1d22;border-color:#527b80}.immersive-toggle{background:#10282e;border-color:#6da6aa;color:#d3f6f4}
+    @media(max-width:950px){#cluster-frame .side-readout .label{font-size:9px}#cluster-frame .side-readout output{font-size:clamp(14px,2.5vw,22px)}}
+    @media(max-width:560px){#cluster-frame{padding:10px 5px;border-radius:22px}#cluster-frame .instrument-grid{grid-template-columns:minmax(40px,.75fr) minmax(0,2.5fr) minmax(0,2.5fr) minmax(40px,.75fr);gap:2px}#cluster-frame .side-stack{gap:4px}#cluster-frame .side-readout{border-width:2px;padding:3px 1px}#cluster-frame .side-readout .label{font-size:5px}#cluster-frame .side-readout output{font-size:clamp(8px,2.3vw,12px);margin:1px}#cluster-frame .side-readout small{font-size:5px}#cluster-frame .mini-track{margin-top:2px;height:2px}.gauge-center small,.speed-center span{font-size:6px}.rpm{font-size:clamp(15px,5vw,27px)}.rpm-unit,.speed-center small{font-size:6px}.cluster-gear{font-size:clamp(14px,5vw,26px);gap:2px}.cluster-gear span{font-size:6px}.speed-center output{font-size:clamp(17px,5vw,29px)}.gauge-scale{font-size:6px}.cluster-header{font-size:7px}}
+    /* Quiet black instrument binnacle with silver chrome and soft teal illumination. */
+    :root{--bg:#05090c;--panel:#0d151a;--blue:#60dcd7;--red:#d2e6e7;--muted:#a8c0c7}
+    body{background:radial-gradient(ellipse at 50% -10%,#1b343b 0%,#0b1419 45%,#030607 100%)}
+    .site-header{border-color:#7bc5c440}.eyebrow{color:#8be4de}
+    .panel,.gauge-panel{border-color:#758d94;background:linear-gradient(145deg,#303c43,#10191e 24%,#070d11 74%,#253238);box-shadow:inset 0 1px #e8ffff35,0 20px 48px #000b}
+    .gauge-panel{background:radial-gradient(ellipse at 50% 35%,#22363e,#0b1419 54%,#05090c 85%)}
+    .cockpit-view{background:linear-gradient(#15252c,#29434a 55%,#091116);border-top-color:#729da4}.horizon{background:#77d8d450;box-shadow:0 0 20px #5ad7d455}.dashboard-cowl{background:linear-gradient(#42565e,#121e23 28%,#060b0d)}
+    #cluster-frame{background:linear-gradient(145deg,#566b73,#0a1217 15%,#050b0e 78%,#34484f);border-color:#c7d9dc;box-shadow:inset 0 2px 2px #ffffff75,inset 0 0 0 4px #071014,0 0 0 5px #aabec2,0 0 0 8px #1e3036,0 18px 38px #000e}
+    #cluster-frame .gauge,.speed-gauge{background:radial-gradient(circle at 50% 48%,#13252b 0%,#050a0d 57%,#294047 67%,#e0eeee 69%,#536b70 71%,#f0f5f2 73%,#344d52 75%,#060d10 78%,transparent 80%)}
+    #cluster-frame .gauge::before,.speed-gauge::before{background:radial-gradient(circle at 50% 110%,#45c9c51b,transparent 62%),linear-gradient(155deg,#ffffff13,transparent 38%)}
+    .gauge-red{stroke:#a3e4df;filter:drop-shadow(0 0 5px #60dcd766)}.gauge-fill{filter:drop-shadow(0 0 7px #60dcd7)}.tick.major{filter:drop-shadow(0 0 4px #b2f6ef)}.needle,.speed-gauge #speed-needle{stroke:#f4ffff;filter:drop-shadow(0 0 6px #70dcd5)}
+    .rpm-unit,.drive-mode,.side-readout small,.cluster-gear span,.speed-center small{color:#83e5de}.speed-tick{stroke:#6ac6c2}.speed-tick.major{stroke:#f5ffff;filter:drop-shadow(0 0 3px #9de9e4)}.speed-label{fill:#f6ffff;paint-order:stroke;stroke:#071215;stroke-width:2px}
+    .speed-tick.high,.speed-label.high{opacity:.035;transition:opacity .24s ease-out;transition-delay:0ms}.speed-gauge.over-180:not(.self-test) .high{opacity:1;transition-duration:.55s;transition-delay:var(--reveal-delay,0ms);filter:drop-shadow(0 0 5px #71e6df)}
+    .speed-gauge.self-test .speed-tick,.speed-gauge.self-test .speed-label{opacity:1;transition:opacity .22s ease-in,filter .22s ease-in;transition-delay:0ms;filter:drop-shadow(0 0 5px #8bfff3) drop-shadow(0 0 9px #45d9d0)}
+    .speed-gauge.self-test #speed-needle{filter:none;opacity:.35}.speed-gauge.self-test .speed-center span{color:#adfff5}
+    #cluster-frame .side-readout{border-color:#b4c9cb;background:radial-gradient(circle,#14282d 0%,#060c0f 67%,#40565b 76%,#e2eeeb 82%,#17282d 88%)}.telemetry-item{border-top-color:#69d5cd;background:linear-gradient(145deg,#1b3035,#090f12)}.speed-stage{border-color:#6caeac;background:linear-gradient(90deg,transparent,#16444766,transparent)}.speed-stage .speed-number{text-shadow:0 0 20px #65d9d377}
+    .engine-button{background:linear-gradient(110deg,#278c8e,#a3e9e3);border-color:#a7eee8;color:#082022;box-shadow:0 7px 24px #54d8d633}.engine-button.running{background:#17383b;color:#aaf0ea}.drive-controls{grid-template-columns:repeat(4,minmax(0,1fr))}.drive-controls button{padding:9px 3px}.drive-controls button.active,.drive-controls button[data-drive="corsa"].active{background:#24595b;border-color:#83ddd8;box-shadow:0 0 12px #5cd7d044;color:white}.segmented button.active,.toggle-control.active{background:#254c50;border-color:#63e4dc}.control-value,.gear-display{color:#91e8e1}input[type=range]{accent-color:#61d6cf}.record-grid div{border-left-color:#70d9d1}.immersive-toggle{border-color:#719da2;background:#142c32;color:#c5eeeb}
+    .rpm-bars span.red.lit{background:#c8efea;box-shadow:0 0 8px #83ddd7}.mini-track span,.micro-meter span{background:linear-gradient(90deg,#3e9f9e,#8fe7df,#e5f8f4)}.brake-button{border-color:#648e92;background:#1b3035;color:#d2e9e8}.brake-button:hover,.brake-button.is-braking{background:#315a5b;border-color:#98e3dc;color:white}.cockpit-alerts .warning{color:#f0d2a1;border-color:#bcab87;box-shadow:0 0 8px #c9b48a55}.audio-status{color:#b8d6d3}.record-panel{background:#0c1d22;border-color:#527b80}.dashboard.immersive{background:#081317}.dashboard.immersive .controls{scrollbar-color:#618f92 #15252b}
+    .cylinder-options{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;margin-top:10px;position:relative;z-index:4}.cylinder-options button{min-width:0;padding:10px 2px;border:1px solid #58767b;border-radius:8px;background:#15292e;color:#d0e6e7;font-size:11px;font-weight:700;white-space:nowrap}.cylinder-options button:hover,.cylinder-options button.active{background:#286363;border-color:#98eee7;color:white;box-shadow:inset 0 0 0 1px #a9f0e999,0 0 12px #64dcd455}.cylinder-options button:focus-visible{outline:2px solid #c0fffa;outline-offset:2px}.cylinder-note{font-size:10px;color:var(--muted);margin:8px 0 0}
+    @media(max-width:560px){.cylinder-options{grid-template-columns:repeat(5,minmax(0,1fr))}.cylinder-options button{font-size:10px;padding:9px 1px}}
+    @media(prefers-reduced-motion:reduce){.speed-tick.high,.speed-label.high,.speed-gauge.over-180 .high{transition:none}}
+    /* Corsa display: preserve live readings while quieting non-driving instruments. */
+    #cluster-frame .side-readout,#cluster-frame .cluster-lamps,#cluster-frame .cluster-bottom,#cluster-frame .gear-banner span,#cluster-frame .gauge-scale,#cluster-frame .gauge::after,#cluster-frame .speed-gauge::after{transition:opacity .32s ease,filter .32s ease}
+    #cluster-frame.corsa-display .side-stack:first-child .side-readout:not(:first-child),#cluster-frame.corsa-display .side-stack:last-child .side-readout:not(:first-child){opacity:.08;filter:brightness(.35)}
+    #cluster-frame.corsa-display .cluster-lamps,#cluster-frame.corsa-display .cluster-bottom #cluster-message,#cluster-frame.corsa-display .cockpit-alerts,#cluster-frame.corsa-display .gear-banner span,#cluster-frame.corsa-display .gauge::after,#cluster-frame.corsa-display .speed-gauge::after{opacity:.08;filter:brightness(.35)}
+    #cluster-frame.corsa-display .side-stack:first-child .side-readout:first-child,#cluster-frame.corsa-display .side-stack:last-child .side-readout:first-child{border-color:#8dfff1;background:radial-gradient(circle,#163c42 0%,#030b0e 68%,#395b5f 77%,#e3f9f6 83%,#152d31 89%);box-shadow:inset 0 0 14px #000,0 0 16px #5be5d44d}
+    #cluster-frame.corsa-display .side-stack:first-child .side-readout:first-child output,#cluster-frame.corsa-display .side-stack:last-child .side-readout:first-child output,#cluster-frame.corsa-display #banner-gear,#cluster-frame.corsa-display #rpm-display,#cluster-frame.corsa-display #dial-speed,#cluster-frame.corsa-display #cluster-gear-value{color:#fff;text-shadow:0 0 8px #9afff2,0 0 19px #56eade}
+    #cluster-frame.corsa-display .tick.major,#cluster-frame.corsa-display .speed-tick.major,#cluster-frame.corsa-display .needle,#cluster-frame.corsa-display #speed-needle{filter:drop-shadow(0 0 6px #a9fff6) drop-shadow(0 0 10px #5ef9e9)}
+    #cluster-frame.corsa-display .gauge-scale{opacity:.85}
+    #cluster-frame.corsa-display .cluster-bottom{opacity:1}
+    #cluster-frame.corsa-display .rpm-bars span:not(.lit){opacity:.12}
+    @media(prefers-reduced-motion:reduce){#cluster-frame .side-readout,#cluster-frame .cluster-lamps,#cluster-frame .cluster-bottom,#cluster-frame .gear-banner span,#cluster-frame .gauge-scale,#cluster-frame .gauge::after,#cluster-frame .speed-gauge::after{transition:none}}
+    /* Cold running is distinct from both normal operation and overheating. */
+    #status.is-cold{color:#9edcff;border-color:#6aa9ce;background:#143347}
+    #status.is-cold .status-dot{background:#8bd7ff;box-shadow:0 0 8px #8bd7ff}
+    #coolant-gauge.is-cold output,#coolant-telemetry.is-cold .readout-value{color:#a6dfff;text-shadow:0 0 8px #69bce477}
+    /* Coolant warning stays dark until the measured temperature exceeds the safe range. */
+    #overheat-lamp{display:inline-flex;align-items:center;gap:4px;color:#52636a;font:800 9px "DM Sans",sans-serif;letter-spacing:.04em;white-space:nowrap;transition:color .2s,filter .2s}
+    #overheat-lamp svg{width:15px;height:15px}
+    #overheat-lamp.is-hot{color:#ff765d!important;filter:drop-shadow(0 0 7px #ff492c);animation:heat-pulse 1s ease-in-out infinite}
+    #overheat-status{display:none;padding:3px 7px;border:1px solid #ff795f;border-radius:5px;background:#5b1d18;color:#fff;font:800 10px "Noto Sans KR",sans-serif;letter-spacing:0;white-space:nowrap;box-shadow:0 0 12px #ff543f88}
+    #overheat-status.is-hot{display:inline-flex;align-items:center}
+    #cluster-frame.corsa-display #overheat-status.is-hot{opacity:1;filter:none}
+    #coolant-telemetry.is-hot,#coolant-gauge.is-hot{border-color:#ff755c;box-shadow:0 0 13px #ff503b88}
+    #coolant-telemetry.is-hot .readout-value,#coolant-gauge.is-hot output{color:#ff9a7e;text-shadow:0 0 8px #ff523b}
+    @keyframes heat-pulse{50%{filter:drop-shadow(0 0 13px #ff3927);opacity:.65}}
+    @media(prefers-reduced-motion:reduce){#overheat-lamp.is-hot{animation:none}}
+    .cluster-lamps .lamp.is-warning{color:#ffb65e!important;text-shadow:0 0 10px #ff963e;filter:drop-shadow(0 0 5px #ff963e)}
+    .cluster-lamps .lamp.is-critical{color:#ff626a!important;text-shadow:0 0 10px #ff4858;filter:drop-shadow(0 0 6px #ff4858)}
+    #cluster-frame.corsa-display .cluster-lamps:has(.is-warning,.is-critical){opacity:1;filter:none}
+    .g-force-strip{display:flex;align-items:center;gap:12px;margin:4px 4px 10px;padding:7px 10px;border-top:1px solid #30404d;border-bottom:1px solid #30404d;color:#9bb0c2;font:700 10px "DM Sans",sans-serif;letter-spacing:.04em}
+    .g-force-strip strong{color:#a8e9e5;font-variant-numeric:tabular-nums;white-space:nowrap}.g-force-strip label{white-space:nowrap}.g-force-strip input{min-width:50px;flex:1;margin:0;accent-color:#8fe7df}.g-force-strip output{white-space:nowrap}
+    @media(max-width:560px){.g-force-strip{gap:5px;padding:6px 2px;font-size:8px}.g-force-strip label{font-size:7px}.g-force-strip strong{font-size:8px}}
+    /* Centered metallic dashboard title, without a symbol. */
+    #cluster-frame .cluster-header{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;min-height:38px}
+    #cluster-frame .cluster-lamps{justify-self:end}
+    .cluster-title{justify-self:center;white-space:nowrap;font:800 clamp(14px,1.8vw,21px) "DM Sans",sans-serif;letter-spacing:.09em;line-height:1.2;color:#dce9eb;background:linear-gradient(165deg,#fff 4%,#b9c8cc 28%,#f4ffff 44%,#79c5c4 57%,#d5e0e2 73%,#82979d 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;filter:drop-shadow(0 1px 1px #000) drop-shadow(0 0 5px #54cfc050)}
+    .cockpit-view .horizon{display:none}
+    @media(max-width:560px){.cluster-title{font-size:12px;letter-spacing:.02em}#cluster-frame .cluster-header{min-height:29px}}
+    #cluster-frame .gauge svg{overflow:hidden}
+    #cluster-frame .gauge-center{position:absolute;left:24%;right:24%;bottom:13%;margin:0;z-index:2;display:flex;align-items:center;justify-content:center;gap:4px;flex-wrap:wrap}
+    #cluster-frame .gauge-center small{display:none}
+    #cluster-frame .gauge-center .rpm{font-size:clamp(13px,2.2vw,25px);line-height:1}
+    #cluster-frame .gauge-center .rpm-unit{font-size:7px;margin:0}
+    #cluster-frame .gauge-center .cluster-gear{margin:0;font-size:clamp(12px,1.7vw,20px);gap:3px}
+    #cluster-frame .gauge-center .cluster-gear span{font-size:7px}
+    @media(max-width:560px){#cluster-frame .gauge-center{left:15%;right:15%;bottom:13%;gap:1px}#cluster-frame .gauge-center .rpm{font-size:clamp(10px,3vw,15px)}#cluster-frame .gauge-center .rpm-unit,#cluster-frame .gauge-center .cluster-gear span{font-size:5px}#cluster-frame .gauge-center .cluster-gear{font-size:clamp(10px,3vw,14px)}}
+    .dashboard:fullscreen,.dashboard.immersive{position:fixed;inset:0;width:100%;height:100vh;height:100dvh;min-height:0;margin:0;border-radius:0;box-sizing:border-box;overflow:auto;align-items:stretch;padding:0;gap:0;background:#081317}
+    .dashboard:fullscreen .gauge-panel,.dashboard.immersive .gauge-panel{min-height:100vh;min-height:100dvh;border-radius:0;display:flex;flex-direction:column;justify-content:center}
+    .dashboard:fullscreen .controls,.dashboard.immersive .controls{height:100vh;height:100dvh;max-height:none;border-radius:0;overflow-y:auto}
+    @media(max-width:950px){.dashboard:fullscreen,.dashboard.immersive{grid-template-columns:1fr;overflow-y:auto}.dashboard:fullscreen .gauge-panel,.dashboard.immersive .gauge-panel{min-height:100vh;min-height:100dvh}.dashboard:fullscreen .controls,.dashboard.immersive .controls{height:auto;max-height:none;overflow:visible}}
+  </style>
+  <script src="/_sdk/ea2423e0a01a756f.data_sdk.js" type="text/javascript" integrity="sha512-Sg0g23oG9zpxeVGJw6Q935Wt19sv7pbBtYnmz0dqpxqMmhlUFeBYJjrBQheq1xeE/u69m7uZ8NgZRq4P2+K57w=="></script>
+  <script src="/_sdk/019700c0f744af0b.editing_sdk.js" type="text/javascript" integrity="sha512-LHfPdWV1V/7Sqi7FqEVtCSOr5py7V2GVt12Dh3G4boBvKXIbsCCJrGbsTFkWhtkMoje1ZNqSfQdSdx2TdGHUjQ=="></script>
+  <script src="/_sdk/a202d01287f70bbd.resizing_sdk.js" type="text/javascript" integrity="sha512-1HSymNrRbmVrPINeyKeKDVHS1r/3KBjQvJ/IjvgAGUrP4+gPCV6nzQEbyDs7SEReA7mlPuHyFKB9Zk2K9KmXhQ=="></script>
+ </head>
+ <body>
+  <header class="site-header canva-header shell">
+   <div class="brand canva-text">
+    Engine Vibe
+   </div><span class="header-label canva-text">REAL-TIME ENGINE SOUND STUDIO · 001</span>
+  </header>
+  <main class="shell">
+   <section class="intro canva-section" aria-labelledby="page-title">
+    <div>
+     <span class="eyebrow canva-text">Build your sound</span>
+     <h1 id="page-title">Engine Simulator</h1>
+     <p class="canva-text">점화부터 배기까지. 기통과 터보, 배기구를 바꾸고 가속 페달을 밟아보세요.</p>
+    </div>
+    <div class="intro-note canva-text">
+     ENGINE SOUND SIMULATOR<br>
+      HEADPHONES RECOMMENDED ↗
+    </div>
+   </section>
+   <section class="dashboard canva-section" aria-label="엔진 사운드 시뮬레이터">
+    <div class="panel gauge-panel canva-panel">
+     <div class="panel-top">
+      <span class="panel-title canva-text">ENGINE MONITOR / LIVE</span><span id="status" class="status canva-tag"><span class="status-dot"></span><span id="status-text">ENGINE OFF</span></span><button id="immersive-toggle" class="immersive-toggle canva-button" type="button" aria-pressed="false" aria-label="계기판 전체화면 열기"><i data-lucide="maximize"></i><span>전체화면</span></button>
+     </div>
+     <div class="cockpit-view" aria-hidden="true">
+      <div class="windshield">
+       <div class="horizon"></div>
+       <div class="road"></div>
+      </div>
+      <div class="dashboard-cowl"></div>
+     </div>
+     <div id="cluster-frame" class="cluster-frame canva-panel" data-phase="off">
+      <div class="cluster-header"><span id="drive-mode" class="drive-mode canva-tag">NORMAL / STANDBY</span> <span id="cluster-title" class="cluster-title canva-text">Engine Vibe</span>
+       <div class="cluster-lamps" aria-label="차량 상태 경고등">
+        <span id="power-lamp" class="lamp canva-tag" title="시동 상태" role="img" aria-label="시동 꺼짐"><i data-lucide="power"></i></span><span id="engine-lamp" class="lamp canva-tag" title="엔진 과열 경고" role="img" aria-label="엔진 경고 꺼짐"><i data-lucide="activity"></i></span><span id="oil-lamp" class="lamp canva-tag" title="오일 온도 경고" role="img" aria-label="오일 경고 꺼짐"><i data-lucide="droplets"></i></span><span id="fuel-lamp" class="lamp canva-tag" title="연료 부족 경고" role="img" aria-label="연료 경고 꺼짐"><i data-lucide="fuel"></i></span><span id="brake-lamp" class="lamp canva-tag" title="브레이크 작동" role="img" aria-label="브레이크 해제"><i data-lucide="circle-parking"></i></span><span id="overheat-lamp" class="canva-tag" title="냉각수 과열 경고" role="img" aria-label="과열 경고 꺼짐"><i data-lucide="thermometer-sun"></i><span>HOT</span></span>
+       </div>
+      </div>
+      <div id="gear-banner" class="gear-banner canva-card" aria-live="polite"><span id="banner-mode">자동 변속</span><strong id="banner-gear">D</strong><span id="banner-hint">숫자 1–8: 즉시 변속</span>
+      </div>
+      <div class="instrument-grid">
+       <div class="side-stack">
+        <div class="side-readout canva-card">
+         <span class="label">SPEED</span><output id="speed-readout">0</output><small>KM/H</small>
+        </div>
+        <div id="coolant-gauge" class="side-readout canva-card">
+         <span class="label">COOLANT</span><output id="cluster-coolant">24°</output><small>°C</small>
+         <div class="mini-track">
+          <span id="cluster-coolant-meter"></span>
+         </div>
+        </div>
+        <div class="side-readout canva-card">
+         <span class="label">FUEL</span><output id="fuel-readout">100%</output><small>FUEL LEVEL</small>
+         <div class="mini-track"><span id="fuel-meter"></span>
+         </div>
+        </div>
+       </div>
+       <div class="gauge" aria-label="엔진 회전수 계기판">
+        <svg id="gauge-svg" viewbox="0 0 300 300" aria-hidden="true"><defs>
+          <lineargradient id="rpmGradient" x1="0" y1="0" x2="1" y2="0">
+           <stop offset="0%" stop-color="#3b9999" />
+           <stop offset="58%" stop-color="#83ded7" />
+           <stop offset="83%" stop-color="#efffff" />
+           <stop offset="100%" stop-color="#b4ece7" />
+          </lineargradient>
+         </defs> <path id="gauge-base" class="gauge-base" /> <path id="gauge-red" class="gauge-red" /> <path id="gauge-fill" class="gauge-fill" /> <g id="ticks"></g> <line id="needle" class="needle" x1="150" y1="150" x2="150" y2="150"></line> <circle class="needle-hub" cx="150" cy="150" r="6"></circle>
+        </svg>
+        <div class="gauge-center">
+         <small>ENGINE SPEED</small><output id="rpm-display" class="rpm">0000</output><span class="rpm-unit">RPM</span>
+         <div class="cluster-gear canva-text"><span>GEAR</span><output id="cluster-gear-value">D</output>
+         </div>
+        </div>
+        <div class="gauge-scale">
+         <span>0</span><span>×1000 RPM</span><span id="scale-max">10</span>
+        </div>
+       </div>
+       <div id="speed-gauge" class="speed-gauge canva-panel" role="img" aria-label="차량 속도계">
+        <svg id="speed-svg" viewbox="0 0 300 300" aria-hidden="true">
+         <g id="speed-ticks"></g><line id="speed-needle" x1="150" y1="150" x2="150" y2="53"></line><circle cx="150" cy="150" r="9" class="speed-hub"></circle>
+        </svg>
+        <div class="speed-center">
+         <span>SPEED</span><output id="dial-speed">0</output><small>km/h</small>
+        </div>
+       </div>
+       <div class="side-stack">
+        <div class="side-readout canva-card">
+         <span class="label">BOOST</span><output id="cluster-boost">0%</output><small id="cluster-turbo-count">NATURALLY ASPIRATED</small>
+         <div class="mini-track">
+          <span id="cluster-boost-meter"></span>
+         </div>
+        </div>
+        <div class="side-readout canva-card">
+         <span class="label">G-FORCE</span><output id="cluster-oil">0.00 G</output><small id="cluster-g-direction">가속 · 좌우</small>
+         <div class="mini-track">
+          <span id="cluster-oil-meter"></span>
+         </div>
+        </div>
+        <div class="side-readout canva-card">
+         <span class="label">REDLINE</span><output id="cluster-redline">10,000</output><small>RPM</small>
+        </div>
+       </div>
+      </div>
+      <div class="g-force-strip canva-panel" aria-label="주행 G-force"><span>G-FORCE</span><strong id="g-long">가속 +0.00 G</strong><strong id="g-lateral">좌우 0.00 G</strong><label for="steering">조향</label><input id="steering" class="canva-input" type="range" min="-100" max="100" value="0" aria-describedby="steering-value"><output id="steering-value" for="steering">중앙</output>
+      </div>
+      <div class="cluster-bottom">
+       <span id="cluster-message">SYSTEM STANDBY</span><span id="overheat-status" class="canva-tag" role="status" aria-live="assertive" aria-atomic="true">과열 · 0°C</span>
+       <div class="cockpit-alerts" aria-live="polite"><span id="tc-lamp">TC ON</span><span id="launch-lamp">LAUNCH</span><span id="shift-lamp">SHIFT</span><span id="redline-lamp">RED ZONE</span>
+       </div>
+       <div id="rpm-bars" class="rpm-bars canva-progress" aria-label="RPM 막대"></div>
+      </div>
+     </div>
+     <div class="telemetry">
+      <div class="telemetry-item canva-card">
+       <span class="readout-label">ENGINE</span><span id="engine-readout" class="readout-value">INLINE 4</span>
+      </div>
+      <div class="telemetry-item gear-box canva-card">
+       <span class="readout-label">GEAR</span><span id="gear-readout" class="readout-value">D</span>
+      </div>
+      <div class="telemetry-item boost-box canva-card">
+       <span class="readout-label">TURBO BOOST</span><span id="boost-readout" class="readout-value">0%</span>
+       <div class="micro-meter">
+        <span id="boost-meter"></span>
+       </div>
+      </div>
+      <div id="coolant-telemetry" class="telemetry-item canva-card">
+       <span class="readout-label">COOLANT</span><span id="coolant-readout" class="readout-value">24°C</span>
+       <div class="micro-meter">
+        <span id="coolant-meter"></span>
+       </div>
+      </div>
+      <div class="telemetry-item canva-card">
+       <span class="readout-label">OIL TEMP</span><span id="oil-readout" class="readout-value">24°C</span>
+       <div class="micro-meter">
+        <span id="oil-meter"></span>
+       </div>
+      </div>
+     </div>
+     <div class="exhaust-preview canva-card">
+      <div class="preview-copy">
+       <strong id="preview-name">순정 · 원형 싱글 배기구</strong><span id="preview-detail">차량 후면 장착 미리보기</span><span id="preview-sound">날카로운 고조파 · 민첩한 응답</span>
+      </div>
+      <div id="rear-preview" class="rear single canva-panel" aria-hidden="true">
+       <div class="mount"></div>
+       <div id="tips" class="tips"><span class="tip"></span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="panel controls canva-panel">
+     <h2 class="control-heading">CONTROL DECK / CONFIGURATION</h2><button id="engine-button" class="engine-button canva-button" type="button" aria-pressed="false"><i data-lucide="power"></i><span id="engine-button-text">엔진 시동</span></button>
+     <p id="audio-status" class="audio-status canva-text" role="status" aria-live="polite">AUDIO OFF · 시동 또는 페달을 눌러 시작하세요</p>
+     <p id="audio-diagnostics" class="hint canva-text" aria-live="polite">Context: 없음 · Master: 0.00 · Engine: OFF</p>
+     <div class="volume-row">
+      <div class="control-row"><label for="volume">음량</label><output id="volume-value" class="control-value" for="volume">80%</output>
+      </div><input id="volume" class="canva-input" type="range" min="0" max="100" value="80">
+     </div>
+     <div class="control-group">
+      <div class="control-row">
+       <label for="throttle">가속 페달</label><output id="throttle-value" class="control-value" for="throttle">0%</output>
+      </div><input id="throttle" class="canva-input" type="range" min="0" max="100" value="0">
+      <div class="range-labels">
+       <span>IDLE</span><span>FULL THROTTLE</span>
+      </div><button id="brake-button" class="brake-button canva-button" type="button" aria-pressed="false">브레이크 · 누르고 유지 / Space</button>
+     </div>
+     <div class="control-group">
+      <div class="control-row">
+       <label for="redline">최대 RPM / 레드라인</label><output id="redline-value" class="control-value" for="redline">10,000 RPM</output>
+      </div><input id="redline" class="canva-input" type="range" min="7000" max="12000" step="250" value="10000">
+      <div class="range-labels">
+       <span>7,000</span><span>12,000 RPM</span>
+      </div>
+     </div>
+     <div class="control-group">
+      <span class="group-label">엔진 구성</span>
+      <div id="cylinder-options" class="cylinder-options canva-tabs" role="group" aria-label="엔진 기통수 선택">
+       <button class="canva-button" type="button" data-cylinders="1" aria-pressed="false">1기통</button><button class="canva-button" type="button" data-cylinders="2" aria-pressed="false">2기통</button><button class="canva-button" type="button" data-cylinders="3" aria-pressed="false">3기통</button><button class="active canva-button" type="button" data-cylinders="4" aria-pressed="true">4기통</button><button class="canva-button" type="button" data-cylinders="5" aria-pressed="false">5기통</button><button class="canva-button" type="button" data-cylinders="6" aria-pressed="false">6기통</button><button class="canva-button" type="button" data-cylinders="8" aria-pressed="false">8기통</button><button class="canva-button" type="button" data-cylinders="10" aria-pressed="false">10기통</button><button class="canva-button" type="button" data-cylinders="12" aria-pressed="false">12기통</button><button class="canva-button" type="button" data-cylinders="16" aria-pressed="false">16기통</button>
+      </div>
+      <p class="cylinder-note canva-text">현재 엔진: <output id="cylinder-value">4기통</output> · 4행정 점화 간격 반영</p>
+     </div>
+     <div class="control-group">
+      <span class="group-label">배기 성향</span>
+      <div class="segmented canva-tabs" role="group" aria-label="배기 설정">
+       <button class="active canva-button" type="button" data-exhaust="stock" aria-pressed="true">순정</button><button class="canva-button" type="button" data-exhaust="sport" aria-pressed="false">스포츠</button><button class="canva-button" type="button" data-exhaust="race" aria-pressed="false">레이스</button>
+      </div><label class="field-label" for="exhaust-tip">배기구 디자인</label><select id="exhaust-tip" class="select-input canva-input"><option value="single">원형 싱글 배기구</option><option value="dual">원형 듀얼 배기구</option><option value="split">좌우 듀얼 배기구</option><option value="quad">중앙 쿼드 배기구</option><option value="trapezoid">사다리꼴 스포츠 배기구</option><option value="oval">대형 타원형 배기구</option><option value="titanium">티타늄 블루 번 아웃 배기구</option><option value="carbon">카본 세라믹 트림 배기구</option></select>
+      <div id="exhaust-choices" class="exhaust-grid" role="group" aria-label="배기구 형태 및 음색 선택"></div>
+      <p class="hint">형태를 눌러 장착 모습과 실시간 배기 음색을 비교하세요.</p><span class="field-label group-label" id="pop-label">감속 팝콘 / 버블</span>
+      <div class="segmented pop-options canva-tabs" role="group" aria-labelledby="pop-label"><button type="button" class="active canva-button" data-pop="off" aria-pressed="true">끄기</button><button type="button" class="canva-button" data-pop="low" aria-pressed="false">약하게</button><button type="button" class="canva-button" data-pop="mid" aria-pressed="false">보통</button><button type="button" class="canva-button" data-pop="high" aria-pressed="false">강하게</button>
+      </div>
+      <p id="pop-hint" class="hint">끄기 · 감속 시에만 짧은 배기 팝이 발생합니다.</p>
+     </div>
+     <div class="control-group" id="vehicle-specs">
+      <span class="group-label">차량 / 엔진 실시간 제원</span>
+      <div class="spec-readouts" aria-label="시뮬레이션 차량 제원">
+       <div class="spec-readout canva-card">
+        <span>차 무게</span><output id="spec-mass">1,000 kg</output>
+       </div>
+       <div class="spec-readout canva-card">
+        <span>공기역학계수 Cd</span><output id="spec-cd">0.34</output>
+       </div>
+       <div class="spec-readout canva-card">
+        <span>마력 HP</span><output id="spec-hp">—</output>
+       </div>
+       <div class="spec-readout canva-card">
+        <span>토크 N·m</span><output id="spec-torque">—</output>
+       </div>
+      </div>
+     </div>
+     <div class="control-group">
+      <div class="control-row">
+       <label for="turbo-count">터보 개수</label><output id="turbo-value" class="control-value" for="turbo-count">0개 · 자연흡기</output>
+      </div><input id="turbo-count" class="select-input canva-input" type="number" min="0" max="16" step="1" value="0" inputmode="numeric" aria-describedby="turbo-hint">
+      <p id="turbo-hint" class="hint">0~16개 · 0개는 자연흡기이며 터보 부스트와 터보 추가 출력은 0입니다. 예상 출력 <output id="turbo-power">—</output></p>
+     </div>
+     <div class="control-group"><span class="group-label">주행 모드</span>
+      <div class="drive-controls canva-tabs" role="group" aria-label="주행 모드"><button type="button" class="active canva-button" data-drive="normal" aria-pressed="true">Normal</button><button type="button" class="canva-button" data-drive="sport" aria-pressed="false">Sport</button><button type="button" class="canva-button" data-drive="manual" aria-pressed="false">Manual</button><button type="button" class="canva-button" data-drive="corsa" aria-pressed="false">Corsa</button>
+      </div>
+      <div class="toggle-pair"><button id="tc-toggle" class="toggle-control active canva-button" type="button" aria-pressed="true">트랙션 컨트롤 ON</button><button id="launch-toggle" class="toggle-control canva-button" type="button" aria-pressed="false">런치 컨트롤 OFF</button>
+      </div>
+      <p class="hint">런치: 정지 상태에서 브레이크와 가속을 함께 누른 뒤 브레이크를 놓으세요. Manual은 수동 변속, Corsa는 빠른 응답과 레드존 중심의 자동 변속입니다.</p>
+     </div>
+     <div class="record-panel canva-panel"><span class="group-label">DRIVE RECORDS</span>
+      <div class="record-grid">
+       <div><small>0–100 km/h</small><output id="run-zero">—</output><small>BEST <span id="best-zero">—</span></small>
+       </div>
+       <div><small>TOP SPEED</small><output id="run-top">0 km/h</output><small>BEST <span id="best-top">—</span></small>
+       </div>
+       <div><output id="run-quarter">—</output><small>BEST <span id="best-quarter">—</span></small>
+       </div>
+      </div><button id="save-record" class="record-save canva-button" type="button">현재 기록 저장</button>
+      <p id="record-status" class="record-status canva-text" role="status">기록을 불러오는 중…</p>
+     </div>
+     <div class="control-group">
+      <span class="group-label">변속 모드</span>
+      <div class="segmented shift-mode canva-tabs" role="group" aria-label="변속 모드">
+       <button id="mode-manual" class="canva-button" type="button" aria-pressed="false">수동 변속</button><button id="mode-auto" class="active canva-button" type="button" aria-pressed="true">자동 변속</button>
+      </div><label class="field-label" for="auto-keys">자동 모드 숫자키 동작</label><select id="auto-keys" class="select-input canva-input"><option value="ignore">무시 (자동 변속 유지)</option><option value="override">즉시 수동 모드로 전환하고 변속</option></select>
+      <p class="hint">수동 모드: 숫자 1–8로 해당 기어 즉시 변속. 입력창에서는 단축키가 작동하지 않습니다.</p>
+     </div>
+     <div class="control-group">
+      <span class="group-label">기어 변속</span>
+      <div class="gear-controls">
+       <button id="gear-down" class="canva-button" type="button" aria-label="기어 내리기">−</button><output id="gear-display" class="gear-display">D</output><button id="gear-up" class="canva-button" type="button" aria-label="기어 올리기">+</button>
+      </div><label class="field-label" for="gear-select">단수 직접 선택</label><select id="gear-select" class="select-input canva-input"><option value="-1">주차 P</option><option value="0">중립 N</option><option value="1" selected>주행 D · 1단</option><option value="2">2단</option><option value="3">3단</option><option value="4">4단</option><option value="5">5단</option><option value="6">6단</option><option value="7">7단</option><option value="8">8단</option></select>
+     </div><button id="mute-button" class="mute-button canva-button" type="button" aria-pressed="false"><i data-lucide="volume-2"></i><span id="mute-text">소리 켜짐 · 음소거</span></button>
+    </div>
+   </section>
+   <p class="footnote canva-text">* 실제 차량 녹음이 아닌 브라우저 실시간 합성 사운드입니다. 처음 시동을 걸 때 오디오 재생이 시작됩니다. 기기 볼륨을 적절히 조절해 주세요.</p>
+  </main>
+  <footer class="site-footer canva-footer shell">
+   <span>Engine Vibe © 2026</span><span>BUILT FOR THE LOVE OF SOUND</span>
+  </footer>
+  <script>
+    lucide.createIcons();
+    const $=id=>document.getElementById(id),clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+    const state={running:false,starting:false,muted:false,throttle:0,rpm:0,redline:10000,gear:1,engine:'i4',cylinders:4,exhaust:'stock',tip:'single',turboCount:0,boost:0,spool:0,shiftMode:'auto',driveMode:'normal',traction:true,launchEnabled:false,launchArmed:false,launchBurst:0,speed:0,smoothedAcceleration:0,steering:0,lateralG:0,braking:false,startTime:0,lastShift:-5000,ignition:0,shiftKick:0,coolant:24,overheated:false,oil:24,fuel:100,blowoff:0,pop:0,previousThrottle:0,popLevel:'off',volume:.8,autoKeys:'ignore',popWindow:0,nextPop:0,popCount:0,runStart:0,runDistance:0,runZero:null,runQuarter:null,runTop:0,runActive:false};
+    const turboProfiles=[{max:0,rise:0,threshold:0,torque:0,power:0},{max:.36,rise:1.5,threshold:1650,torque:115,power:65000},{max:.56,rise:1.85,threshold:1450,torque:145,power:85000},{max:.76,rise:2.2,threshold:1250,torque:175,power:105000},{max:1,rise:2.55,threshold:1050,torque:205,power:125000}];
+    function turboCount(value){const n=Number(value);return value!==null&&String(value).trim()!==''&&Number.isInteger(n)&&n>=0&&n<=16?n:0}
+    function turboProfile(count){if(count<=4)return turboProfiles[count];const extra=count-4;return {max:Math.min(2.2,1+extra*.1),rise:2.55+extra*.065,threshold:Math.max(750,1050-extra*25),torque:205+extra*18,power:125000+extra*13500}}
+    state.turboCount=0;
+    const engines={i4:{name:'INLINE 4',cyl:4},v6:{name:'V6',cyl:6},v8:{name:'V8',cyl:8}};
+    const exhausts={stock:{volume:.48,bass:.85,bite:.58},sport:{volume:.67,bass:1,bite:.9},race:{volume:.82,bass:1.12,bite:1.18}};
+    const tips={single:{name:'원형 싱글 배기구',detail:'1구 · 소구경 스틸 · 중앙 매립',sound:'날카로운 고조파 · 빠른 응답',bass:.87,bite:1.25,air:1.12,pulse:0,pan:0,popHz:1.25,tail:.72},dual:{name:'원형 듀얼 배기구',detail:'2구 · 중구경 스틸 · 중앙 매립',sound:'넓고 깊은 저음 · 부드러운 울림',bass:1.17,bite:.88,air:.88,pulse:.12,pan:.25,popHz:.85,tail:1.18},split:{name:'좌우 듀얼 배기구',detail:'2구 · 좌우 분리 · 범퍼 하단 매립',sound:'좌우로 펼쳐지는 저음 · 넓은 공간감',bass:1.16,bite:.91,air:.93,pulse:.2,pan:.85,popHz:.89,tail:1.25},quad:{name:'중앙 쿼드 배기구',detail:'4구 · 소구경 · 양측 확산 매립',sound:'촘촘한 배기 펄스 · 입체적 스테레오',bass:1.12,bite:1.04,air:1.02,pulse:.65,pan:1,popHz:1,tail:1.08},trapezoid:{name:'사다리꼴 스포츠 배기구',detail:'1구 · 넓은 사다리꼴 · 범퍼 일체형',sound:'단단한 중역 · 선명한 스포츠 톤',bass:1.02,bite:1.14,air:1.03,pulse:.1,pan:0,popHz:1.12,tail:.85},oval:{name:'대형 타원형 배기구',detail:'1구 · 대구경 타원 · 깊은 리세스',sound:'풍부하고 넓은 저음 · 긴 울림',bass:1.28,bite:.79,air:.84,pulse:.07,pan:.12,popHz:.75,tail:1.38},titanium:{name:'티타늄 블루 번 아웃 배기구',detail:'1구 · 티타늄 · 청색 열변색 립',sound:'밝은 금속성 트랜지언트 · 경쾌한 고역',bass:.93,bite:1.37,air:1.13,pulse:.16,pan:.1,popHz:1.42,tail:.75},carbon:{name:'카본 세라믹 트림 배기구',detail:'1구 · 카본 직조 트림 · 블랙 매립',sound:'단단하고 압축된 배기음 · 짧은 잔향',bass:1.05,bite:1.12,air:.72,pulse:.18,pan:0,popHz:1.04,tail:.58}};
+    function tipMarkup(key,compact=false){const count=key==='quad'?4:key==='dual'||key==='split'?2:1;return `<div class="rear ${key}${compact?' compact':''}" aria-hidden="true"><div class="mount"></div><div class="tips">${'<span class="tip"></span>'.repeat(count)}</div></div>`}
+    $('exhaust-choices').innerHTML=Object.entries(tips).map(([key,v])=>`<button type="button" class="exhaust-choice canva-button" data-tip="${key}" aria-pressed="false">${tipMarkup(key,true)}<strong>${v.name}</strong><small>${v.detail}<br>${v.sound}</small></button>`).join('');
+    document.querySelectorAll('[data-tip]').forEach(button=>button.addEventListener('click',()=>{state.tip=button.dataset.tip;$('exhaust-tip').value=state.tip;render()}));
+    const vehicle={mass:1000,cd:.34,frontalArea:2,airDensity:1.225,rollingCoefficient:.012,wheelRadius:.34,finalDrive:3.4,grip:1.24,drivetrainEfficiency:.87,shiftSeconds:.16};vehicle.dragArea=vehicle.cd*vehicle.frontalArea;
+    const transmission=[0,3.8,2.77,2.02,1.47,1.28,1.02,.86,.74];
+    const gearRatios=transmission.map(ratio=>ratio*vehicle.finalDrive*60/(2*Math.PI*vehicle.wheelRadius*3.6));
+    /* Representative four-stroke firing orders. Custom cylinder counts use sequential, evenly spaced firing events over 720°. */
+    const firingOrders={1:[1],2:[1,2],3:[1,3,2],4:[1,3,4,2],5:[1,2,4,5,3],6:[1,5,3,6,2,4],8:[1,8,4,3,6,5,7,2],10:[1,6,5,10,2,7,3,8,4,9],12:[1,12,5,8,3,10,6,7,2,11,4,9],16:[1,9,4,12,6,14,2,10,8,16,5,13,3,11,7,15]};
+    let context,master,lastTime=0,phase=0,audioError='',audioNodes=null;
+    const audio={smoothRpm:850};
+    const svgNS='http://www.w3.org/2000/svg',cx=150,cy=150,radius=113;
+    function point(angle,r){const a=angle*Math.PI/180;return [cx+Math.cos(a)*r,cy+Math.sin(a)*r]}
+    function arc(from,to,r){const p=point(from,r),q=point(to,r);return `M ${p[0]} ${p[1]} A ${r} ${r} 0 ${to-from>180?1:0} 1 ${q[0]} ${q[1]}`}
+    /* The visible arc travels from the lower-left, across the top, to the lower-right. */
+    const arcStart=145,arcEnd=395;
+    function gaugeAngle(f){return arcStart+clamp(f,0,1)*(arcEnd-arcStart)}
+    function drawGauge(){
+      const max=state.redline,redStart=state.shiftMode==='auto'?Math.min(.86,7000/max):.86;
+      $('gauge-base').setAttribute('d',arc(arcStart,arcEnd,radius));
+      $('gauge-red').setAttribute('d',arc(gaugeAngle(redStart),arcEnd,radius));
+      $('ticks').replaceChildren();
+      const divisions=max/250;
+      for(let i=0;i<=divisions;i++){
+        const value=i*250,fraction=value/max,angle=gaugeAngle(fraction),major=value%1000===0,p1=point(angle,major?94:101),p2=point(angle,110),line=document.createElementNS(svgNS,'line');
+        line.setAttribute('x1',p1[0]);line.setAttribute('y1',p1[1]);line.setAttribute('x2',p2[0]);line.setAttribute('y2',p2[1]);line.setAttribute('class',major?'tick major':'tick');$('ticks').appendChild(line);
+        if(major&&value>0&&value<max){const p=point(angle,81),label=document.createElementNS(svgNS,'text');label.setAttribute('x',p[0]);label.setAttribute('y',p[1]);label.setAttribute('class','tick-label');label.textContent=String(value/1000);$('ticks').appendChild(label)}
+      }
+      $('scale-max').textContent=String(max/1000);
+    }
+    drawGauge();
+    const MAX_SPEED=410;
+    const speedScaleMax=MAX_SPEED;
+    function drawSpeedGauge(){
+      const group=$('speed-ticks'),ns='http://www.w3.org/2000/svg';group.replaceChildren();
+      const max=speedScaleMax,step=10,labelStep=$('speed-gauge').clientWidth<210?100:50;
+      for(let v=0;v<=max;v+=step){const fraction=v/max,a=(145+fraction*250)*Math.PI/180,major=v%labelStep===0||v===max;const polar=r=>[150+Math.cos(a)*r,150+Math.sin(a)*r];const p=polar(major?103:110),q=polar(119),line=document.createElementNS(ns,'line');line.setAttribute('x1',p[0]);line.setAttribute('y1',p[1]);line.setAttribute('x2',q[0]);line.setAttribute('y2',q[1]);line.setAttribute('class','speed-tick'+(major?' major':'')+(v>180?' high':''));if(v>180)line.style.setProperty('--reveal-delay',Math.round((v-180)/step)*45+'ms');group.appendChild(line);if(major&&(v%labelStep===0&&v<=max-labelStep||v===max)){const t=document.createElementNS(ns,'text'),pos=polar(86);t.setAttribute('x',pos[0]);t.setAttribute('y',pos[1]);t.setAttribute('class','speed-label'+(v>180?' high':''));if(v>180)t.style.setProperty('--reveal-delay',Math.round((v-180)/step)*45+'ms');t.textContent=v;group.appendChild(t)}}
+    }
+    drawSpeedGauge();
+    if(window.ResizeObserver){const speedResize=new ResizeObserver(()=>drawSpeedGauge());speedResize.observe($('speed-gauge'))}else window.addEventListener('resize',drawSpeedGauge);
+    const bars=$('rpm-bars');for(let i=0;i<12;i++){const bar=document.createElement('span');if(i>=10)bar.className='red';bars.appendChild(bar)}
+    function createAudio(){
+      const AudioCtor=window.AudioContext||window.webkitAudioContext;
+      if(!AudioCtor)throw new Error('Web Audio API를 지원하지 않습니다');
+      context=new AudioCtor();
+      master=context.createGain();master.gain.value=0;master.connect(context.destination);
+      const compressor=context.createDynamicsCompressor();compressor.threshold.value=-15;compressor.ratio.value=3;compressor.connect(master);
+      const voice=(type)=>{const osc=context.createOscillator(),gain=context.createGain();osc.type=type;gain.gain.value=0;osc.connect(gain);gain.connect(compressor);osc.start();return {osc,gain}};
+      const low=voice('sawtooth'),exhaust=voice('triangle'),harmonic=voice('sawtooth'),turbo=voice('sine');
+      const pulseOsc=context.createOscillator(),pulseGain=context.createGain(),pulsePan=context.createStereoPanner();pulseOsc.type='sawtooth';pulseGain.gain.value=0;pulsePan.pan.value=0;pulseOsc.connect(pulseGain);pulseGain.connect(pulsePan);pulsePan.connect(compressor);pulseOsc.start();
+      const firingOsc=context.createOscillator(),firingShape=context.createWaveShaper(),firingFilter=context.createBiquadFilter(),firingGain=context.createGain();
+      const curve=new Float32Array(1024);for(let i=0;i<curve.length;i++){const p=i/(curve.length-1);curve[i]=Math.exp(-p*20)*2-1.0/20}firingShape.curve=curve;firingShape.oversample='2x';
+      firingOsc.type='sawtooth';firingFilter.type='lowpass';firingFilter.frequency.value=1100;firingGain.gain.value=0;firingOsc.connect(firingShape);firingShape.connect(firingFilter);firingFilter.connect(firingGain);firingGain.connect(compressor);firingOsc.start();
+      const buffer=context.createBuffer(1,context.sampleRate*2,context.sampleRate),data=buffer.getChannelData(0);
+      for(let i=0;i<data.length;i++)data[i]=Math.random()*2-1;
+      const air=context.createBufferSource(),airFilter=context.createBiquadFilter(),airGain=context.createGain();
+      air.buffer=buffer;air.loop=true;airFilter.type='bandpass';airFilter.frequency.value=850;airFilter.Q.value=.7;airGain.gain.value=0;
+      air.connect(airFilter);airFilter.connect(airGain);airGain.connect(compressor);air.start();
+      /* Dedicated pop bus: high-ratio peak control before the existing master gain. */
+      const popLimiter=context.createDynamicsCompressor();popLimiter.threshold.value=-9;popLimiter.knee.value=2;popLimiter.ratio.value=18;popLimiter.attack.value=.002;popLimiter.release.value=.11;popLimiter.connect(master);
+      const popBus=context.createGain();popBus.gain.value=.72;popBus.connect(popLimiter);
+      audioNodes={low,exhaust,harmonic,turbo,pulseOsc,pulseGain,pulsePan,firingOsc,firingFilter,firingGain,air,airFilter,airGain,compressor,popBus,popLimiter,noiseBuffer:buffer};
+      context.onstatechange=updateAudioStatus;
+    }
+    function updateAudioStatus(){
+      const ready=!!(context&&context.state==='running'&&audioNodes&&master);
+      const active=state.running||state.starting;
+      const audible=ready&&active&&!state.muted&&state.volume>0&&master.gain.value>0.001;
+      const el=$('audio-status');el.classList.toggle('ready',audible);
+      el.textContent=audioError?'AUDIO ERROR · '+audioError:!context?'AUDIO OFF · 시동 또는 페달을 눌러 시작하세요':context.state!=='running'?'AUDIO OFF · Context '+context.state+' (다시 눌러 재개)':state.muted?'AUDIO OFF · 음소거 중':state.volume===0?'AUDIO OFF · 음량 0%':!active?'AUDIO READY · 엔진 대기 중':audible?'AUDIO ON · 엔진음 재생 중':'AUDIO STARTING · 출력 연결 확인 중';
+      $('audio-diagnostics').textContent='Context: '+(context?context.state:'없음')+' · Master: '+(master?master.gain.value.toFixed(2):'0.00')+' · Engine: '+(state.running?'ON':state.starting?'STARTING':'OFF');
+    }
+    async function activateAudio(){
+      try{if(!context)createAudio();if(context.state!=='running')await context.resume();audioError=context.state==='running'?'':'AudioContext가 '+context.state+' 상태입니다';updateAudioStatus();return context.state==='running'}
+      catch(e){audioError=e.message||'오디오 활성화 실패';updateAudioStatus();return false}
+    }
+    function updateEngineAudio(){
+      if(!context||!audioNodes)return;
+      const n=audioNodes,t=context.currentTime,active=state.running||state.starting,th=state.throttle/100;
+      const rpm=Math.max(300,state.rpm||850),fire=Math.max(8,rpm*state.cylinders/120),x=exhausts[state.exhaust],tip=tips[state.tip],corsa=state.driveMode==='corsa'?1:0;
+      /* Four-stroke firing frequency is RPM × cylinders / 120; closely spaced firings sound progressively smoother. */
+      const profiles={1:{bass:1.18,rough:1.6,bite:.55,smooth:.35,cutoff:1100},2:{bass:1.12,rough:1.45,bite:.62,smooth:.44,cutoff:1400},3:{bass:.98,rough:1.3,bite:.75,smooth:.52,cutoff:1650},4:{bass:.88,rough:1.15,bite:.86,smooth:.62,cutoff:1850},5:{bass:.92,rough:.98,bite:.9,smooth:.73,cutoff:2100},6:{bass:1.02,rough:.81,bite:.87,smooth:.84,cutoff:2350},8:{bass:1.2,rough:.7,bite:.79,smooth:.95,cutoff:2600},10:{bass:1.11,rough:.57,bite:.89,smooth:1.05,cutoff:3000},12:{bass:1.04,rough:.47,bite:1,smooth:1.13,cutoff:3500},16:{bass:1.1,rough:.34,bite:.94,smooth:1.23,cutoff:4000}};
+      const c=profiles[state.cylinders];
+      const set=(param,value,speed=.03)=>param.setTargetAtTime(Math.max(.0001,value),t,speed);
+      set(master.gain,active&&!state.muted?state.volume*.65:0,.07);
+      set(n.low.osc.frequency,Math.max(25,fire*.5));
+      set(n.exhaust.osc.frequency,fire);set(n.harmonic.osc.frequency,fire*2);set(n.turbo.osc.frequency,290+rpm*(.055+state.turboCount*.009)+state.boost*210);
+      set(n.firingOsc.frequency,fire,.012);set(n.firingFilter.frequency,Math.min(6500,c.cutoff+rpm*.08+th*(300+corsa*350)+corsa*rpm*.08));
+      set(n.firingGain.gain,active?(.2+th*.22)*c.rough*x.volume*(.78+tip.pulse*.16)*(1+corsa*.13):0);
+      set(n.low.gain.gain,active?(.08+th*.09)*c.bass*x.bass*tip.bass:0);
+      set(n.exhaust.gain.gain,active?(.075+th*.1)*c.smooth*x.volume*(1+corsa*.16):0);
+      set(n.harmonic.gain.gain,active?(.015+th*.045)*c.bite*x.bite*tip.bite*(1+corsa*.35):0);
+      set(n.pulseOsc.frequency,fire*(tip.pulse>.4?1.5:1.01));set(n.pulseGain.gain,active?(.008+th*.038)*tip.pulse*c.rough:0);set(n.pulsePan.pan,Math.sin(t*6)*tip.pan*.75);
+      set(n.airGain.gain,active?(.012+th*(state.turboCount?.043+state.turboCount*.003:.075)+state.blowoff*(.035+state.turboCount*.014)+state.pop*.2+state.shiftKick*.025)*tip.air:0,.055);
+      set(n.airFilter.frequency,Math.min(5500,(500+rpm*.23+th*(state.turboCount?950+state.turboCount*125:1250)+state.blowoff*state.turboCount*270)*tip.popHz));
+      set(n.turbo.gain.gain,active&&state.turboCount?Math.min(.16,(.008+state.spool*.055+state.boost*.018)*(1+state.turboCount*.15)):0,.075);
+    }
+    /* One-shot cold start: cranking, forceful ignition, resonant exhaust and a short rev flare. */
+    function playStartupSound(){
+      if(!context||context.state!=='running'||!audioNodes)return;
+      const t=context.currentTime,bus=context.createGain(),filter=context.createBiquadFilter();
+      bus.gain.value=.72;filter.type='lowpass';filter.frequency.value=1050;bus.connect(filter);filter.connect(audioNodes.compressor);
+      const tone=(type,frequency,peak,on,duration,endFrequency)=>{
+        const osc=context.createOscillator(),gain=context.createGain();osc.type=type;
+        osc.frequency.setValueAtTime(frequency,t+on);
+        if(endFrequency)osc.frequency.exponentialRampToValueAtTime(endFrequency,t+on+duration*.68);
+        gain.gain.setValueAtTime(.0001,t+on);gain.gain.linearRampToValueAtTime(peak,t+on+.028);
+        gain.gain.exponentialRampToValueAtTime(.0001,t+on+duration);
+        osc.connect(gain);gain.connect(bus);osc.start(t+on);osc.stop(t+on+duration+.02);
+        osc.onended=()=>{osc.disconnect();gain.disconnect()};
+      };
+      /* Starter motor turns over before the first combustion event. */
+      tone('sawtooth',62,.075,1.08,.42,94);
+      tone('triangle',41,.10,1.18,.36,56);
+      /* Ignition thump: sub-bass body and a gritty initial exhaust pulse. */
+      tone('sine',91,.52,1.46,.55,38);
+      tone('sawtooth',76,.25,1.48,.46,49);
+      tone('triangle',48,.36,1.51,.83,37);
+      const noise=context.createBufferSource(),noiseFilter=context.createBiquadFilter(),noiseGain=context.createGain();
+      noise.buffer=audioNodes.noiseBuffer;noiseFilter.type='lowpass';noiseFilter.frequency.value=490;
+      noiseGain.gain.setValueAtTime(.0001,t+1.46);noiseGain.gain.linearRampToValueAtTime(.22,t+1.485);noiseGain.gain.exponentialRampToValueAtTime(.0001,t+1.87);
+      noise.connect(noiseFilter);noiseFilter.connect(noiseGain);noiseGain.connect(bus);noise.start(t+1.46);noise.stop(t+1.9);
+      noise.onended=()=>{noise.disconnect();noiseFilter.disconnect();noiseGain.disconnect()};
+      /* Brief rising combustion note then settle into the unchanged idle engine audio. */
+      tone('sawtooth',54,.15,1.67,.68,112);
+      tone('triangle',84,.18,1.72,.72,170);
+      setTimeout(()=>{bus.disconnect();filter.disconnect()},2700);
+    }
+    function playExhaustPop(){
+      if(!context||context.state!=='running'||!audioNodes||!state.running||state.popLevel==='off'||state.muted||state.volume<=0)return;
+      const t=context.currentTime,n=audioNodes,level={low:.34,mid:.7,high:1}[state.popLevel];
+      const x=exhausts[state.exhaust],tip=tips[state.tip],turbo=clamp(Math.log1p(state.turboCount)/Math.log(17),0,1);
+      const pressure=level*clamp(.72+state.rpm/state.redline*.38,.7,1.1)*(.82+x.volume*.27)*(1+turbo*.13);
+      const tone=x.bass,brightness=x.bite;
+      const bass=context.createOscillator(),bassGain=context.createGain();bass.type='sine';bass.frequency.setValueAtTime((108+turbo*13)*tip.popHz,t);bass.frequency.exponentialRampToValueAtTime((47+turbo*8)*tip.popHz,t+.105);
+      bassGain.gain.setValueAtTime(.0001,t);bassGain.gain.linearRampToValueAtTime(Math.min(.58,pressure*.44*tone),t+.009);bassGain.gain.exponentialRampToValueAtTime(.0001,t+.18);
+      bass.connect(bassGain);bassGain.connect(n.popBus);bass.start(t);bass.stop(t+.19);
+      const snap=context.createBufferSource(),snapFilter=context.createBiquadFilter(),snapGain=context.createGain();snap.buffer=n.noiseBuffer;snapFilter.type='bandpass';snapFilter.frequency.value=(1250+brightness*800+turbo*350)*tip.popHz;snapFilter.Q.value=.75;
+      snapGain.gain.setValueAtTime(.0001,t);snapGain.gain.linearRampToValueAtTime(Math.min(.62,pressure*.49*brightness),t+.003);snapGain.gain.exponentialRampToValueAtTime(.0001,t+.07);
+      snap.connect(snapFilter);snapFilter.connect(snapGain);snapGain.connect(n.popBus);snap.start(t);snap.stop(t+.08);
+      const body=context.createBufferSource(),bodyFilter=context.createBiquadFilter(),bodyGain=context.createGain();body.buffer=n.noiseBuffer;bodyFilter.type='lowpass';bodyFilter.frequency.value=(390+turbo*160)*tip.popHz;
+      bodyGain.gain.setValueAtTime(.0001,t);bodyGain.gain.linearRampToValueAtTime(Math.min(.42,pressure*.28),t+.013);bodyGain.gain.exponentialRampToValueAtTime(.0001,t+.24);
+      body.connect(bodyFilter);bodyFilter.connect(bodyGain);bodyGain.connect(n.popBus);body.start(t);body.stop(t+.25);
+      const tail=context.createGain();tail.gain.value=.14*tip.tail;bodyGain.connect(tail);const delay=context.createDelay(.3);delay.delayTime.value=(.085+turbo*.02)*tip.tail;tail.connect(delay);delay.connect(n.popBus);
+      body.onended=()=>{setTimeout(()=>{body.disconnect();bodyFilter.disconnect();bodyGain.disconnect();tail.disconnect();delay.disconnect()},320)};
+      snap.onended=()=>{snap.disconnect();snapFilter.disconnect();snapGain.disconnect()};bass.onended=()=>{bass.disconnect();bassGain.disconnect()};
+    }
+    document.addEventListener('pointerdown',()=>{activateAudio()},{passive:true});
+    document.addEventListener('touchstart',()=>{activateAudio()},{passive:true});
+    document.addEventListener('mousedown',()=>{activateAudio()});
+    document.addEventListener('keydown',e=>{if(!e.repeat&&!e.isComposing)activateAudio()});
+    function requestShift(next){
+      next=clamp(Number.isFinite(next)?next:-1,-1,8);
+      if(next===state.gear)return;
+      if(next===-1){state.speed=0;state.smoothedAcceleration=0;state.launchArmed=false;state.launchBurst=0;state.runActive=false;}
+      const old=state.gear;
+      state.gear=next;state.lastShift=performance.now();state.shiftKick=state.driveMode==='corsa'?1:.8;
+      const frame=$('cluster-frame');frame.classList.remove('shift-shake');void frame.offsetWidth;frame.classList.add('shift-shake');setTimeout(()=>frame.classList.remove('shift-shake'),260);
+      /* Keep the current crank speed at the shift instant; the animation loop eases toward the new ratio. */
+      render();
+    }
+    function render(){
+      const age=performance.now()-state.startTime;
+      let phaseName='off',displayRpm=state.rpm;
+      if(state.starting){
+        phaseName=age<260?'backlight':age<620?'lamps':age<1150?'sweep':'crank';
+        if(phaseName==='sweep'){const t=(age-620)/530;displayRpm=state.redline*(t<.5?t*2:(1-t)*2)}
+      }else if(state.running){phaseName='on'}
+      $('cluster-frame').dataset.phase=phaseName;
+      $('cluster-frame').classList.toggle('corsa-display',state.driveMode==='corsa');
+      const indicatedRpm=Math.round(clamp(displayRpm,0,state.redline));
+      $('rpm-display').textContent=String(indicatedRpm).padStart(4,'0');
+      const fraction=indicatedRpm/state.redline,angle=gaugeAngle(fraction),p=point(angle,105);
+      $('gauge-fill').setAttribute('d',fraction>0?arc(arcStart,angle,radius):'');
+      $('needle').setAttribute('x2',p[0]);$('needle').setAttribute('y2',p[1]);
+      [...bars.children].forEach((bar,i)=>bar.classList.toggle('lit',i<Math.round(fraction*12)));
+      const g=state.gear===-1?'P':state.gear===0?'N':state.shiftMode==='auto'?'D':String(state.gear),boostText=Math.round(state.boost*100)+'%',coolant=Math.round(state.coolant),oil=Math.round(state.oil);
+      $('gear-display').textContent=g;$('gear-readout').textContent=g;$('cluster-gear-value').textContent=g;$('banner-gear').textContent=g;$('gear-select').value=String(state.gear);
+      $('banner-mode').textContent=state.shiftMode==='auto'?'AUTO / 자동':'MANUAL / 수동';$('banner-hint').textContent=state.shiftMode==='auto'?(state.autoKeys==='ignore'?'숫자키 무시':'숫자키 → 수동'):'숫자 1–8: 즉시 변속';
+      const indicatedSpeed=Math.round(clamp(Number.isFinite(state.speed)?state.speed:0,0,MAX_SPEED));
+      $('speed-readout').textContent=$('dial-speed').textContent=indicatedSpeed;
+      const speedSelfTest=state.starting&&age<1500;
+      $('speed-gauge').classList.toggle('self-test',speedSelfTest);
+      $('speed-gauge').classList.toggle('over-180',!speedSelfTest&&state.speed>180);
+      $('speed-gauge').setAttribute('aria-label',speedSelfTest?'속도계 셀프 테스트 중 · 실제 속도 '+indicatedSpeed+' km/h':'차량 속도계 · '+indicatedSpeed+' km/h');
+      const speedAngle=(145+clamp(state.speed/speedScaleMax,0,1)*250)*Math.PI/180;
+      $('speed-needle').setAttribute('x2',150+Math.cos(speedAngle)*97);$('speed-needle').setAttribute('y2',150+Math.sin(speedAngle)*97);
+      $('brake-button').classList.toggle('is-braking',state.brakePressure>.01);$('brake-button').setAttribute('aria-pressed',String(state.braking));$('brake-button').textContent='브레이크 · '+Math.round(state.brakePressure*100)+'% / Space';
+      const hot=state.overheated===true;
+      const warningLamp=(id,on,label,critical=false)=>{const lamp=$(id);lamp.classList.toggle('is-warning',on&&!critical);lamp.classList.toggle('is-critical',on&&critical);lamp.setAttribute('aria-label',label)};
+      warningLamp('power-lamp',state.starting,'시동 '+(state.starting?'진행 중':state.running?'켜짐':'꺼짐'));
+      warningLamp('engine-lamp',state.running&&hot,'엔진 '+(state.running&&hot?'과열 경고':'경고 꺼짐'),true);
+      warningLamp('oil-lamp',state.running&&state.oil>=108,'오일 온도 '+(state.running&&state.oil>=108?'높음':'정상'),true);
+      warningLamp('fuel-lamp',state.fuel<=15,'연료 '+(state.fuel<=15?'부족':'정상'));
+      warningLamp('brake-lamp',state.brakePressure>.05,'브레이크 '+(state.brakePressure>.05?'작동 중':'해제'));
+      const longG=state.running&&state.speed>0.1&&state.gear!==-1?clamp(state.smoothedAcceleration/9.81,-1.2,1.2):0;
+      $('g-long').textContent=(longG<-.015?'제동 ':'가속 ')+(longG>=0?'+':'')+longG.toFixed(2)+' G';
+      const lateralG=state.running?state.lateralG:0;
+      $('g-lateral').textContent=(lateralG<-.015?'좌 ':lateralG>.015?'우 ':'좌우 ')+Math.abs(lateralG).toFixed(2)+' G';
+      $('overheat-lamp').classList.toggle('is-hot',hot);$('overheat-lamp').setAttribute('aria-label',hot?'과열 경고 켜짐 · 냉각수 '+coolant+'°C':'과열 경고 꺼짐');
+      $('overheat-status').classList.toggle('is-hot',hot);if(hot)$('overheat-status').textContent='과열 · '+coolant+'°C';
+      $('coolant-gauge').classList.toggle('is-hot',hot);$('coolant-telemetry').classList.toggle('is-hot',hot);
+      $('coolant-readout').textContent=coolant+'°C';$('oil-readout').textContent=oil+'°C';
+      $('cluster-coolant').textContent=coolant+'°';
+      const totalG=Math.hypot(longG,lateralG);$('cluster-oil').textContent=totalG.toFixed(2)+' G';$('cluster-g-direction').textContent=(longG<-.015?'제동':longG>.015?'가속':'정속')+' · '+(lateralG<-.015?'좌':lateralG>.015?'우':'직진');
+      $('coolant-meter').style.width=$('cluster-coolant-meter').style.width=clamp((state.coolant-20)/90*100,0,100)+'%';
+      $('oil-meter').style.width=clamp((state.oil-20)/105*100,0,100)+'%';$('cluster-oil-meter').style.width=clamp(totalG/vehicle.grip*100,0,100)+'%';
+      $('boost-meter').style.width=$('cluster-boost-meter').style.width=Math.round(state.boost*100)+'%';
+      $('boost-readout').textContent=$('cluster-boost').textContent=boostText;
+      $('fuel-readout').textContent=Math.round(state.fuel)+'%';$('fuel-meter').style.width=state.fuel+'%';if(document.activeElement!==$('turbo-count'))$('turbo-count').value=String(state.turboCount);$('turbo-value').textContent=state.turboCount?state.turboCount+'개 · 터보':'0개 · 자연흡기';$('cluster-turbo-count').textContent=state.turboCount?state.turboCount+' × TURBO / SPOOL '+Math.round(state.spool*100)+'%':'NATURALLY ASPIRATED';$('turbo-power').textContent=state.turboCount?Math.round((state.boost/turboProfile(state.turboCount).max)*turboProfile(state.turboCount).power*clamp(.76+.052*state.cylinders,.81,1.58)/1000)+' kW 추가':'0 kW 추가';
+      const specProfile=turboProfile(state.turboCount),specBoost=specProfile.max?state.boost/specProfile.max:0,specCylinder=clamp(.76+.052*state.cylinders,.81,1.58),specRpm=clamp(state.rpm/state.redline,0,1),specBand=clamp(.78+.22*Math.sin(Math.PI*specRpm)-.22*Math.pow(specRpm,3),.55,1);
+      const specPower=(693000+specBoost*specProfile.power)*specCylinder,specTorque=(950+specBoost*specProfile.torque)*specCylinder*specBand;
+      $('spec-mass').textContent=(Number.isFinite(vehicle.mass)?vehicle.mass:1000).toLocaleString('ko-KR')+' kg';$('spec-cd').textContent=(Number.isFinite(vehicle.cd)?vehicle.cd:.34).toFixed(2);$('spec-hp').textContent=Math.round(Number.isFinite(specPower)?specPower/745.699872:693000/745.699872)+' HP';$('spec-torque').textContent=Math.round(Number.isFinite(specTorque)?specTorque:650)+' N·m';
+      $('run-zero').textContent=state.runZero===null?'—':state.runZero.toFixed(2)+' s';$('run-quarter').textContent=state.runQuarter===null?'—':state.runQuarter.toFixed(2)+' s';$('run-top').textContent=Math.round(state.runTop)+' km/h';
+      $('tc-lamp').textContent=state.traction?'TC ON':'TC OFF';$('tc-lamp').classList.toggle('active',state.traction&&state.running);$('tc-lamp').classList.toggle('warning',!state.traction&&state.running);$('launch-lamp').classList.toggle('active',state.launchArmed);$('launch-lamp').textContent=state.launchArmed?'LAUNCH READY':state.launchEnabled?'LAUNCH ON':'LAUNCH OFF';$('shift-lamp').classList.toggle('active',state.running&&state.gear>0&&fraction>.76&&fraction<.9);$('redline-lamp').classList.toggle('warning',state.running&&fraction>=.9);
+      $('tc-toggle').textContent='트랙션 컨트롤 '+(state.traction?'ON':'OFF');$('tc-toggle').classList.toggle('active',state.traction);$('tc-toggle').setAttribute('aria-pressed',String(state.traction));$('launch-toggle').textContent='런치 컨트롤 '+(state.launchEnabled?'ON':'OFF');$('launch-toggle').classList.toggle('active',state.launchEnabled);$('launch-toggle').setAttribute('aria-pressed',String(state.launchEnabled));
+      document.querySelectorAll('[data-drive]').forEach(b=>{const active=b.dataset.drive===state.driveMode;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active))});
+      $('cluster-redline').textContent=state.redline.toLocaleString('ko-KR');
+      const automatic=state.shiftMode==='auto';
+      $('gear-up').disabled=automatic;$('gear-down').disabled=automatic;$('gear-select').disabled=automatic&&state.gear!==-1;
+      for(const mode of ['manual','auto']){$('mode-'+mode).classList.toggle('active',state.shiftMode===mode);$('mode-'+mode).setAttribute('aria-pressed',String(state.shiftMode===mode))}
+      $('cylinder-value').textContent=state.cylinders+'기통';
+      document.querySelectorAll('[data-cylinders]').forEach(b=>{const selected=Number(b.dataset.cylinders)===state.cylinders;b.classList.toggle('active',selected);b.setAttribute('aria-pressed',String(selected))});
+      $('engine-readout').textContent=state.cylinders+'기통';
+      $('throttle-value').textContent=state.throttle+'%';
+      $('status').classList.toggle('running',state.running||state.starting);
+      const cold=(state.running||state.starting)&&state.coolant<65;
+      $('status').classList.toggle('is-cold',cold);$('coolant-gauge').classList.toggle('is-cold',cold);$('coolant-telemetry').classList.toggle('is-cold',cold);
+      $('status-text').textContent=state.starting?(state.coolant<65?'COLD START · 냉간 시동':'IGNITION SEQUENCE'):state.running&&state.coolant<65?'COLD ENGINE · 냉간 운전':state.running?'ENGINE ON':'ENGINE OFF';
+      $('cluster-message').textContent=state.starting?age<260?'BACKLIGHT ACTIVE':age<620?'SYSTEM CHECK':age<1150?'GAUGE CALIBRATION':'STARTER / IGNITION':state.launchArmed?'LAUNCH READY · RELEASE BRAKE':state.running&&fraction>=.9?'RED ZONE · SHIFT!':state.running&&fraction>.76&&state.gear>0?'SHIFT ↑':state.running&&state.coolant<65?'COLD START · WARMING UP':state.running?'POWERTRAIN ACTIVE':'SYSTEM STANDBY';
+      $('drive-mode').textContent=state.driveMode.toUpperCase()+' / '+(state.starting?'SELF TEST':state.running?automatic?'AUTO':'MANUAL':'STANDBY');
+      $('engine-button').classList.toggle('running',state.running);$('engine-button').setAttribute('aria-pressed',String(state.running||state.starting));$('engine-button').disabled=state.starting;
+      $('engine-button-text').textContent=state.starting?'시동 중…':state.running?'엔진 끄기':'엔진 시동';
+      $('mute-button').setAttribute('aria-pressed',String(state.muted));$('mute-text').textContent=state.muted?'음소거됨 · 소리 켜기':'소리 켜짐 · 음소거';
+      $('preview-name').textContent=({stock:'순정',sport:'스포츠',race:'레이스'})[state.exhaust]+' · '+tips[state.tip].name+' · 팝 '+({off:'끄기',low:'약하게',mid:'보통',high:'강하게'})[state.popLevel];
+      $('preview-detail').textContent=tips[state.tip].detail;
+      $('preview-sound').textContent=tips[state.tip].sound;
+      $('pop-hint').textContent='팝콘 '+({off:'끄기',low:'약하게',mid:'보통',high:'강하게'})[state.popLevel]+' · 스로틀 해제 / 감속 구간에서만 작동';
+      const rear=$('rear-preview');rear.className='rear '+state.tip;
+      const count=state.tip==='quad'?4:state.tip==='dual'||state.tip==='split'?2:1;
+      const el=$('tips');if(el.children.length!==count)el.innerHTML='<span class="tip"></span>'.repeat(count);
+      document.querySelectorAll('[data-tip]').forEach(b=>{const selected=b.dataset.tip===state.tip;b.classList.toggle('active',selected);b.setAttribute('aria-pressed',String(selected))});
+    }
+    function animate(time){
+      const dt=Math.min((time-lastTime)/1000||0,.1);lastTime=time;
+      if(keyboardThrottle||keyboardThrottleLevel>0){
+        keyboardThrottleLevel=clamp(keyboardThrottleLevel+(keyboardThrottle?85:-145)*dt,0,100);
+        const pedalValue=Math.round(Math.max(manualThrottle,keyboardThrottleLevel));
+        if(pedalValue!==state.throttle)setThrottle(pedalValue);
+      }
+      keyboardBrakeLevel=clamp(keyboardBrakeLevel+(keyboardBrake?1.05:-2.5)*dt,0,1);
+      if(state.starting&&time-state.startTime>1950){state.starting=false;state.running=true;state.ignition=1;state.rpm=920}
+      state.ignition=Math.max(0,state.ignition-dt*2.1);state.shiftKick=Math.max(0,state.shiftKick-dt*3.4);
+      state.blowoff=Math.max(0,state.blowoff-dt*2.4);state.pop=Math.max(0,state.pop-dt*22);
+      if(state.running&&state.popLevel!=='off'&&time<state.popWindow&&time>=state.nextPop&&state.throttle<12&&state.rpm>1700&&state.popCount<3){
+        const strength={low:.3,mid:.65,high:1}[state.popLevel],rpmFactor=clamp(state.rpm/state.redline,.15,1),exhaustFactor={stock:.8,sport:1,race:1.12}[state.exhaust];
+        state.pop=strength*rpmFactor*exhaustFactor*(1+state.boost*.2);
+        playExhaustPop();state.popCount++;state.nextPop=time+390+Math.random()*300+state.turboCount*5+(1-rpmFactor)*120;
+      }
+      const profile=turboProfile(state.turboCount);
+      const desiredSpool=state.running&&state.turboCount>0?state.throttle/100*clamp((state.rpm-profile.threshold)/2200,0,1):0;
+      const spoolRate=desiredSpool>state.spool?profile.rise*(.55+state.rpm/4500):4.2;
+      state.spool=state.turboCount?clamp(state.spool+(desiredSpool-state.spool)*Math.min(1,dt*spoolRate),0,1):0;
+      const boostTarget=state.spool*profile.max;
+      state.boost=state.turboCount?clamp(state.boost+(boostTarget-state.boost)*Math.min(1,dt*(boostTarget>state.boost?2.3:5.5)),0,profile.max):0;
+      if(state.shiftMode==='auto'){
+        if(state.running&&state.gear===0)requestShift(1);
+      }
+      /* SI units: 1,000 kg AWD car, tire-limited launch, gear-dependent wheel torque, aerodynamic drag and shift interruption. */
+      const velocity=state.speed/3.6,drag=.5*vehicle.airDensity*vehicle.dragArea*velocity*velocity;
+      const rolling=vehicle.rollingCoefficient*vehicle.mass*9.81;
+      const gripForce=vehicle.mass*9.81*vehicle.grip;
+      const brakeTarget=pointerBrake||enterBrake?1:keyboardBrakeLevel;
+      state.brakePressure=(state.brakePressure||0)+(brakeTarget-(state.brakePressure||0))*Math.min(1,dt*(brakeTarget>state.brakePressure?12:18));
+      const wasArmed=state.launchArmed;state.launchArmed=state.launchEnabled&&state.running&&state.gear===1&&state.speed<2&&state.brakePressure>.5&&state.throttle>60;
+      if(wasArmed&&!state.launchArmed&&state.brakePressure<.35&&state.throttle>60)state.launchBurst=1;
+      state.launchBurst=Math.max(0,state.launchBurst-dt*.55);
+      let driveForce=0;
+      if(state.running&&state.gear>0&&!state.braking){
+        const rpmFraction=clamp(state.rpm/state.redline,0,1);
+        const torqueBand=clamp(.78+.22*Math.sin(Math.PI*clamp(rpmFraction,0,1))-.22*Math.pow(rpmFraction,3),.55,1);
+        const cylinderFactor=clamp(.76+.052*state.cylinders,.81,1.58);
+        const boostFraction=profile.max?state.boost/profile.max:0;
+        const engineTorque=(950+boostFraction*profile.torque)*cylinderFactor*torqueBand;
+        const wheelForce=engineTorque*transmission[state.gear]*vehicle.finalDrive*vehicle.drivetrainEfficiency/vehicle.wheelRadius;
+        const powerLimit=(693000+boostFraction*profile.power)*cylinderFactor*vehicle.drivetrainEfficiency/Math.max(velocity,5);
+        const coupledRpm=state.speed*gearRatios[state.gear];
+        const limiter=clamp((state.redline-Math.max(state.rpm,coupledRpm))/650,0,1);
+        const tractionLimit=gripForce*(state.traction?1:0.88);
+        const shiftFraction=clamp((time-state.lastShift)/(vehicle.shiftSeconds*1000),0,1);
+        const shiftCoupling=shiftFraction<.75?.12:.12+.88*(shiftFraction-.75)/.25;
+        const pedalResponse=state.driveMode==='corsa'?Math.pow(state.throttle/100,.62):state.throttle/100;
+        driveForce=Math.min(tractionLimit,pedalResponse*Math.min(wheelForce,powerLimit)*limiter*(1+state.launchBurst*.08)*(state.driveMode==='corsa'?1.05:state.driveMode==='sport'?1.02:1))*shiftCoupling;
+      }
+      /* Brake buildup models hydraulic response; low-speed grip and aero change stopping distance. */
+      const gripScale=clamp(.84+velocity*.006,.84,1.04);
+      const brakeForce=state.brakePressure*Math.min(gripForce*gripScale,vehicle.mass*(8.6+velocity*.009));
+      const engineBraking=state.running&&state.gear>0&&state.throttle<5?220:0;
+      const resist=velocity>0?drag+rolling+brakeForce+engineBraking:0;
+      const previousSpeed=Number.isFinite(state.speed)?clamp(state.speed,0,MAX_SPEED):0;
+      const governor=clamp((MAX_SPEED-previousSpeed)/3,0,1);
+      const acceleration=(driveForce*governor-resist)/vehicle.mass;
+      const targetAcceleration=Number.isFinite(acceleration)?clamp(acceleration,-11,vehicle.grip*9.81):0;
+      state.smoothedAcceleration+=(targetAcceleration-state.smoothedAcceleration)*(1-Math.exp(-dt*(targetAcceleration>state.smoothedAcceleration?18:12)));
+      const delta=state.smoothedAcceleration*dt*3.6;
+      state.speed=state.gear===-1?0:clamp(previousSpeed+delta,0,MAX_SPEED);
+      if(state.gear===-1)state.smoothedAcceleration=0;
+      if(state.speed<.12&&driveForce<=resist)state.speed=0;
+      const turnSpeed=state.speed/3.6;
+      const steeringAngle=state.steering*.35*Math.PI/180;
+      const lateralTarget=state.running&&state.gear>0&&turnSpeed>.2?clamp(turnSpeed*turnSpeed*Math.tan(steeringAngle)/(2.6*9.81),-vehicle.grip,vehicle.grip):0;
+      state.lateralG+=(lateralTarget-state.lateralG)*(1-Math.exp(-dt*5));
+      if(state.running&&!state.runActive&&previousSpeed===0&&state.speed>0){state.runActive=true;state.runStart=time-dt*1000;state.runDistance=0;state.runZero=null;state.runQuarter=null;state.runTop=0}
+      if(state.runActive){const elapsed=(time-state.runStart)/1000;state.runDistance+=(previousSpeed+state.speed)/7.2*dt;state.runTop=Math.max(state.runTop,state.speed);if(state.runZero===null&&previousSpeed<100&&state.speed>=100)state.runZero=elapsed-dt+(100-previousSpeed)/(state.speed-previousSpeed)*dt;if(state.runQuarter===null&&state.runDistance>=400)state.runQuarter=elapsed;if(state.speed===0)state.runActive=false;}
+      const idle=state.cylinders<=2?1050:state.cylinders<=3?950:850,cylinderResponse=clamp(.84+state.cylinders*.035,.87,1.4);
+      const pedalFraction=state.driveMode==='corsa'?Math.pow(state.throttle/100,.72):state.throttle/100;
+      const freeTarget=idle+pedalFraction*(state.redline-idle)*(state.turboCount?.88+state.boost*.12:1);
+      let target=state.running?freeTarget:state.starting?260+clamp((time-state.startTime)/1250,0,1)*500:0;
+      if(state.running&&state.gear>0){
+        const coupled=state.speed*gearRatios[state.gear];
+        const launchSlip=state.gear===1?clamp(1-state.speed/12,0,1)*state.throttle*12:0;
+        target=Math.max(idle,coupled+launchSlip);
+      }
+      target=state.running?clamp(target,idle,state.shiftMode==='auto'?Math.max(state.redline,8200):state.redline):target;
+      /* Frame-rate-independent response avoids snaps at 3,000 RPM and eases both sides of a shift. */
+      const response=(state.gear>0?(state.driveMode==='corsa'?10:6.5):target>state.rpm?(state.driveMode==='corsa'?6.2:3.6):4.8)*cylinderResponse;
+      state.rpm+=clamp((target-state.rpm)*(1-Math.exp(-response*dt)),-dt*6500*cylinderResponse,dt*5200*cylinderResponse);
+      if(state.shiftMode==='auto'&&state.running&&state.gear>0){
+        const sinceShift=time-state.lastShift;
+        const upAt=state.driveMode==='corsa'?state.redline*.94:8000;
+        const downAt=state.driveMode==='corsa'?Math.min(4200,state.redline*.43):1950;
+        const nextDownRpm=state.speed*gearRatios[Math.max(1,state.gear-1)];
+        /* Keep a wide RPM gap between decisions; reject a downshift that would immediately need an upshift. */
+        if(state.gear<8&&state.rpm>=upAt){
+          requestShift(state.gear+1);
+        }else if(state.gear>1&&state.rpm<=downAt&&nextDownRpm<upAt-400&&sinceShift>(state.driveMode==='corsa'?230:750)){
+          requestShift(state.gear-1);
+        }
+      }
+      const coolantTarget=state.running?86+Math.max(0,state.throttle-55)*.62:24;
+      state.coolant+=(coolantTarget-state.coolant)*Math.min(1,dt*(state.running?.085:.04));
+      if(!Number.isFinite(state.coolant)){state.coolant=24;state.overheated=false}
+      else if(state.overheated){if(state.coolant<=100)state.overheated=false}
+      else if(state.coolant>=105)state.overheated=true;
+      state.oil+=((state.running?Math.min(112,92+state.throttle*.13):24)-state.oil)*Math.min(1,dt*(state.running?.021:.006));
+      if(state.running)state.fuel=Math.max(0,state.fuel-dt*(.0015+state.throttle*.000045));
+      if(state.rpm<5&&!state.running&&!state.starting)state.rpm=0;
+      if(state.running){phase+=dt*state.rpm*state.cylinders*Math.PI/60;const vibration=clamp(13/Math.sqrt(state.cylinders),3,13);state.rpm+=Math.sin(phase)*vibration*dt*8}
+      updateEngineAudio();render();if(!animate.statusTime||time-animate.statusTime>350){updateAudioStatus();animate.statusTime=time}requestAnimationFrame(animate);
+    }
+    $('engine-button').addEventListener('click',async()=>{
+      if(state.running){state.running=false;state.starting=false;state.boost=0;state.spool=0;state.blowoff=0;state.pop=0;state.popWindow=0;state.launchArmed=false;state.launchBurst=0;state.lateralG=0;state.smoothedAcceleration=0;state.runActive=false;render();return}
+      if(!await activateAudio())return;
+      state.starting=true;state.startTime=performance.now();state.lastShift=-5000;state.gear=1;state.rpm=260;audio.smoothRpm=260;state.speed=0;state.smoothedAcceleration=0;state.lateralG=0;state.boost=0;state.spool=0;state.blowoff=0;state.pop=0;state.popWindow=0;state.launchBurst=0;state.launchArmed=false;state.runActive=false;state.runDistance=0;state.runZero=null;state.runQuarter=null;state.runTop=0;state.brakePressure=0;state.ignition=1;playStartupSound();render();
+    });
+    const steering=$('steering');
+    steering.addEventListener('input',e=>{state.steering=Number(e.target.value);$('steering-value').textContent=state.steering===0?'중앙':state.steering<0?'좌 '+Math.abs(state.steering)+'%':'우 '+state.steering+'%';render()});
+    const throttle=$('throttle');
+    let keyboardThrottle=false,keyboardThrottleLevel=0,manualThrottle=0,pedalDragging=false;
+    function setThrottle(value){
+      const previous=state.throttle;state.throttle=value;throttle.value=String(value);
+      if(previous-state.throttle>10&&state.running){state.blowoff=state.turboCount?clamp(state.boost*1.5,0,1):0;if(state.popLevel!=='off'&&state.rpm>1700){state.popWindow=performance.now()+1150;state.nextPop=performance.now()+90;state.popCount=0}}
+      if(state.throttle>26)state.popWindow=0;
+      render();
+    }
+    throttle.addEventListener('pointerdown',()=>{activateAudio();pedalDragging=true});
+    throttle.addEventListener('touchstart',()=>{activateAudio()},{passive:true});
+    throttle.addEventListener('mousedown',()=>{activateAudio()});
+    throttle.addEventListener('keydown',()=>{activateAudio()});
+    throttle.addEventListener('input',e=>{if(!context||context.state!=='running')activateAudio();manualThrottle=Number(e.target.value);setThrottle(Math.round(Math.max(manualThrottle,keyboardThrottleLevel)))});
+    function releasePedal(){manualThrottle=0;setThrottle(Math.round(keyboardThrottleLevel))}
+    for(const type of ['pointerup','pointercancel','touchend','touchcancel','mouseup'])throttle.addEventListener(type,releasePedal);
+    throttle.addEventListener('keyup',e=>{if(e.code!=='ArrowUp')releasePedal()});
+    document.addEventListener('pointerup',()=>{if(pedalDragging){pedalDragging=false;releasePedal()}});
+    document.addEventListener('pointercancel',()=>{if(pedalDragging){pedalDragging=false;releasePedal()}});
+    let pointerBrake=false,keyboardBrake=false,keyboardBrakeLevel=0,enterBrake=false;
+    function syncBrake(){const on=pointerBrake||keyboardBrake||enterBrake;if(state.braking!==on){state.braking=on;render()}}
+    const brake=$('brake-button');
+    brake.addEventListener('pointerdown',e=>{e.preventDefault();brake.setPointerCapture(e.pointerId);pointerBrake=true;syncBrake()});
+    for(const type of ['pointerup','pointercancel','lostpointercapture'])brake.addEventListener(type,()=>{pointerBrake=false;syncBrake()});
+    brake.addEventListener('keydown',e=>{if(e.code==='Enter'){e.preventDefault();enterBrake=true;syncBrake()}});
+    brake.addEventListener('keyup',e=>{if(e.code==='Enter'){e.preventDefault();enterBrake=false;syncBrake()}});
+    document.addEventListener('keydown',e=>{
+      if(e.code!=='ArrowUp'&&e.code!=='Space')return;
+      const editable=e.target.closest('input:not([type="range"]),select,textarea,[contenteditable="true"],[role="textbox"]');
+      if(editable)return;
+      e.preventDefault();
+      if(e.isComposing||e.altKey||e.ctrlKey||e.metaKey)return;
+      if(e.code==='ArrowUp'&&!keyboardThrottle){keyboardThrottle=true}
+      if(e.code==='Space'&&!keyboardBrake){keyboardBrake=true;syncBrake()}
+    });
+    document.addEventListener('keyup',e=>{
+      if(e.code!=='ArrowUp'&&e.code!=='Space')return;
+      e.preventDefault();
+      if(e.code==='ArrowUp'&&keyboardThrottle){keyboardThrottle=false}
+      if(e.code==='Space'&&keyboardBrake){keyboardBrake=false;syncBrake()}
+    });
+    window.addEventListener('blur',()=>{keyboardThrottle=false;keyboardThrottleLevel=0;keyboardBrake=false;keyboardBrakeLevel=0;enterBrake=false;pointerBrake=false;pedalDragging=false;releasePedal();syncBrake()});
+    document.querySelectorAll('[data-drive]').forEach(button=>button.addEventListener('click',()=>{state.driveMode=button.dataset.drive;state.shiftMode=state.driveMode==='manual'?'manual':'auto';if(state.shiftMode==='auto'&&state.running&&state.gear===0)requestShift(1);drawGauge();render()}));
+    $('tc-toggle').addEventListener('click',()=>{state.traction=!state.traction;render()});
+    $('launch-toggle').addEventListener('click',()=>{state.launchEnabled=!state.launchEnabled;if(!state.launchEnabled)state.launchArmed=false;render()});
+    $('redline').addEventListener('input',e=>{state.redline=Number(e.target.value);$('redline-value').textContent=state.redline.toLocaleString('ko-KR')+' RPM';drawGauge();render()});
+    function applyTurboCount(value){const count=turboCount(value);state.turboCount=count;const profile=turboProfile(count);state.spool=count&&state.running?state.throttle/100*clamp((state.rpm-profile.threshold)/2200,0,1):0;state.boost=count?state.spool*profile.max:0;state.blowoff=0;$('turbo-count').value=String(count);updateEngineAudio();render()}
+    $('turbo-count').addEventListener('input',e=>{if(e.target.value!==''&&e.target.validity.valid)applyTurboCount(e.target.value)});
+    $('turbo-count').addEventListener('change',e=>applyTurboCount(e.target.value));
+    $('turbo-count').addEventListener('blur',e=>applyTurboCount(e.target.value));
+    for(const mode of ['manual','auto'])$('mode-'+mode).addEventListener('click',()=>{state.shiftMode=mode;drawGauge();if(mode==='auto'&&state.running&&state.gear===0)requestShift(1);render()});
+    $('gear-up').addEventListener('click',()=>{if(state.shiftMode==='manual')requestShift(state.gear+1)});
+    $('gear-down').addEventListener('click',()=>{if(state.shiftMode==='manual')requestShift(state.gear-1)});
+    $('gear-select').addEventListener('change',e=>{if(state.shiftMode==='manual'||state.gear===-1)requestShift(Number(e.target.value))});
+    $('auto-keys').addEventListener('change',e=>{state.autoKeys=e.target.value;render()});
+    document.addEventListener('keydown',e=>{if(e.repeat||e.isComposing||e.altKey||e.ctrlKey||e.metaKey||! /^[1-8]$/.test(e.key))return;const target=e.target;if(target.closest('input,select,textarea,[contenteditable="true"],[role="textbox"]'))return;if(state.shiftMode==='auto'){if(state.autoKeys==='ignore')return;state.shiftMode='manual';drawGauge()}requestShift(Number(e.key));render()});
+    $('volume').addEventListener('input',e=>{state.volume=Number(e.target.value)/100;$('volume-value').textContent=e.target.value+'%';updateAudioStatus()});
+    document.querySelectorAll('[data-pop]').forEach(button=>button.addEventListener('click',()=>{state.popLevel=button.dataset.pop;if(audioNodes)audioNodes.popBus.gain.setTargetAtTime(state.popLevel==='off'?0:.72,context.currentTime,.008);if(state.popLevel==='off'){state.pop=0;state.popWindow=0}document.querySelectorAll('[data-pop]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button))});render()}));
+    document.querySelectorAll('[data-cylinders]').forEach(button=>button.addEventListener('click',()=>{state.cylinders=Number(button.dataset.cylinders);phase=0;updateEngineAudio();render()}));
+    document.querySelectorAll('[data-exhaust]').forEach(button=>button.addEventListener('click',()=>{state.exhaust=button.dataset.exhaust;document.querySelectorAll('[data-exhaust]').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button))});render()}));
+    $('exhaust-tip').addEventListener('change',e=>{state.tip=e.target.value;render()});
+    $('mute-button').addEventListener('click',()=>{state.muted=!state.muted;const icon=$('mute-button').querySelector('svg');if(icon)icon.remove();$('mute-button').insertAdjacentHTML('afterbegin',`<i data-lucide="${state.muted?'volume-x':'volume-2'}"></i>`);lucide.createIcons();render();updateAudioStatus()});
+    const immersiveButton=$('immersive-toggle'),dashboard=document.querySelector('.dashboard');
+    let cockpitScroll=0;
+    function setImmersive(on){
+      if(on===dashboard.classList.contains('immersive'))return;
+      if(on)cockpitScroll=window.scrollY;
+      dashboard.classList.toggle('immersive',on);
+      document.body.style.overflow=on?'hidden':'';
+      immersiveButton.setAttribute('aria-pressed',String(on));
+      immersiveButton.setAttribute('aria-label',on?'전체화면 닫기':'계기판 전체화면 열기');
+      immersiveButton.querySelector('span').textContent=on?'닫기':'전체화면';
+      const icon=immersiveButton.querySelector('svg');if(icon)icon.remove();
+      immersiveButton.insertAdjacentHTML('afterbegin',`<i data-lucide="${on?'minimize':'maximize'}"></i>`);lucide.createIcons();
+      if(on)dashboard.scrollTop=0;else window.scrollTo({top:cockpitScroll,behavior:'instant'});
+    }
+    immersiveButton.addEventListener('click',async()=>{
+      if(document.fullscreenElement){try{await document.exitFullscreen()}catch(e){setImmersive(false)}return}
+      try{await dashboard.requestFullscreen();setImmersive(true)}catch(e){setImmersive(false);immersiveButton.setAttribute('aria-label','브라우저에서 전체화면을 허용해 주세요')}
+    });
+    document.addEventListener('fullscreenchange',()=>setImmersive(document.fullscreenElement===dashboard));
+    document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!document.fullscreenElement&&dashboard.classList.contains('immersive'))setImmersive(false)});
+    let backendRecords=[],recordsReady=false,recordTimer;
+    function recordMessage(message){$('record-status').textContent=message}
+    function renderBest(){const values=backendRecords;const bestZero=values.map(r=>r.zero_to_100).filter(v=>typeof v==='number'&&v>0);const bestQuarter=values.map(r=>r.quarter_mile).filter(v=>typeof v==='number'&&v>0);const bestTop=values.map(r=>r.top_speed).filter(v=>typeof v==='number'&&v>0);$('best-zero').textContent=bestZero.length?Math.min(...bestZero).toFixed(2)+' s':'—';$('best-quarter').textContent=bestQuarter.length?Math.min(...bestQuarter).toFixed(2)+' s':'—';$('best-top').textContent=bestTop.length?Math.round(Math.max(...bestTop))+' km/h':'—'}
+    const recordHandler={onDataChanged(data){clearTimeout(recordTimer);backendRecords=data;recordsReady=true;renderBest();recordMessage('최고 기록을 불러왔습니다. '+backendRecords.length+'/999')}};
+    async function initRecords(){recordsReady=false;recordMessage('기록을 불러오는 중…');clearTimeout(recordTimer);recordTimer=setTimeout(()=>{if(!recordsReady)recordMessage('기록을 불러오지 못했습니다. 다시 시도하려면 여기를 누르세요.')},8000);try{const result=await window.dataSdk.init(recordHandler);if(!result.isOk){clearTimeout(recordTimer);recordMessage('기록 연결 실패 · 여기를 눌러 다시 시도하세요')}}catch(e){clearTimeout(recordTimer);recordMessage('기록 연결 실패 · 여기를 눌러 다시 시도하세요')}}
+    $('record-status').addEventListener('click',()=>{if(!recordsReady)initRecords()});
+    $('save-record').addEventListener('click',async e=>{const button=e.currentTarget;if(!recordsReady){recordMessage('기록 연결 후 저장할 수 있습니다.');return}if(!state.runTop){recordMessage('주행 후 기록을 저장할 수 있습니다.');return}if(backendRecords.length>=999){recordMessage('저장 한도 999개에 도달했습니다.');return}button.disabled=true;button.textContent='저장 중…';try{const result=await window.dataSdk.create({zero_to_100:state.runZero,top_speed:state.runTop,quarter_mile:state.runQuarter,recorded_at:new Date().toISOString()});recordMessage(result.isOk?'주행 기록을 저장했습니다.':'저장을 확인할 수 없습니다. 새로고침 후 확인하세요.')}catch(err){recordMessage('저장을 확인할 수 없습니다. 새로고침 후 확인하세요.')}finally{button.disabled=false;button.textContent='현재 기록 저장'}});
+    render();initRecords();requestAnimationFrame(animate);
+  </script>
+ </body>
+</html>
